@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Elasticsearch
+elasticsearch-9.2.3/
+
+# OS / Editor
+.vscode/
+.DS_Store

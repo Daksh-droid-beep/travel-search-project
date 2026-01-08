@@ -1,0 +1,501 @@
+[
+  {
+    "name": "1-Day Itinerary for Delhi",
+    "type": "itinerary",
+    "city": "Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "description": "This 1-day itinerary covers India Gate, Qutub Minar, Lotus Temple, and local heritage spots in Delhi.",
+    "keywords": ["Delhi", "1 day trip", "heritage", "India"]
+  },
+  {
+    "name": "2-Day Itinerary for Delhi",
+    "type": "itinerary",
+    "city": "Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "description": "This 2-day itinerary includes Red Fort, Jama Masjid, Humayun’s Tomb, and cultural markets in Delhi.",
+    "keywords": ["Delhi", "2 day trip", "culture", "India"]
+  },
+  {
+    "name": "1-Day Itinerary for Mumbai",
+    "type": "itinerary",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "country": "India",
+    "description": "This 1-day itinerary covers Gateway of India, Marine Drive, Chhatrapati Shivaji Terminus, and nearby attractions in Mumbai.",
+    "keywords": ["Mumbai", "1 day trip", "Maharashtra", "India"]
+  },
+  {
+    "name": "2-Day Itinerary for Mumbai",
+    "type": "itinerary",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "country": "India",
+    "description": "This 2-day itinerary explores Elephanta Caves, Juhu Beach, Siddhivinayak Temple, and historic landmarks in Mumbai.",
+    "keywords": ["Mumbai", "2 day trip", "heritage", "India"]
+  },
+  {
+    "name": "1-Day Itinerary for Jaipur",
+    "type": "itinerary",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "country": "India",
+    "description": "This 1-day itinerary covers Hawa Mahal, City Palace, Jantar Mantar, and local bazaars in Jaipur.",
+    "keywords": ["Jaipur", "1 day trip", "Rajasthan", "heritage"]
+  },
+  {
+    "name": "2-Day Itinerary for Jaipur",
+    "type": "itinerary",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "country": "India",
+    "description": "This 2-day itinerary includes Amber Fort, Nahargarh Fort, Jal Mahal, and cultural attractions in Jaipur.",
+    "keywords": ["Jaipur", "2 day trip", "forts", "India"]
+  },
+  {
+    "name": "1-Day Itinerary for Agra",
+    "type": "itinerary",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "description": "This 1-day itinerary covers Taj Mahal, Agra Fort, Mehtab Bagh, and historical sites in Agra.",
+    "keywords": ["Agra", "1 day trip", "Taj Mahal", "India"]
+  },
+  {
+    "name": "1-Day Itinerary for Varanasi",
+    "type": "itinerary",
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "description": "This 1-day itinerary includes Kashi Vishwanath Temple, Ganga Ghats, Sarnath, and spiritual landmarks in Varanasi.",
+    "keywords": ["Varanasi", "1 day trip", "spiritual", "India"]
+  },
+  {
+    "name": "2-Day Itinerary for Varanasi",
+    "type": "itinerary",
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "description": "This 2-day itinerary explores ancient temples, evening Ganga Aarti, Sarnath, and cultural sites in Varanasi.",
+    "keywords": ["Varanasi", "2 day trip", "culture", "India"]
+  },
+  {
+    "name": "1-Day Itinerary for Kolkata",
+    "type": "itinerary",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "country": "India",
+    "description": "This 1-day itinerary covers Victoria Memorial, Howrah Bridge, Indian Museum, and heritage areas of Kolkata.",
+    "keywords": ["Kolkata", "1 day trip", "heritage", "India"]
+  },
+  {
+    "name": "2-Day Itinerary for Kolkata",
+    "type": "itinerary",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "country": "India",
+    "description": "This 2-day itinerary includes Dakshineswar Temple, Kalighat Temple, Marble Palace, and cultural spots in Kolkata.",
+    "keywords": ["Kolkata", "2 day trip", "culture", "India"]
+  },
+  {
+    "name": "1-Day Itinerary for Chennai",
+    "type": "itinerary",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "description": "This 1-day itinerary covers Marina Beach, Kapaleeshwarar Temple, Fort St. George, and city landmarks in Chennai.",
+    "keywords": ["Chennai", "1 day trip", "Tamil Nadu", "India"]
+  },
+  {
+    "name": "2-Day Itinerary for Chennai",
+    "type": "itinerary",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "description": "This 2-day itinerary explores Mahabalipuram, temples, museums, and cultural heritage of Chennai.",
+    "keywords": ["Chennai", "2 day trip", "heritage", "India"]
+  },
+  {
+    "name": "1-Day Itinerary for Hyderabad",
+    "type": "itinerary",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "description": "This 1-day itinerary covers Charminar, Golconda Fort, Chowmahalla Palace, and food streets of Hyderabad.",
+    "keywords": ["Hyderabad", "1 day trip", "heritage", "India"]
+  },
+  {
+    "name": "2-Day Itinerary for Hyderabad",
+    "type": "itinerary",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "description": "This 2-day itinerary includes Ramoji Film City, Hussain Sagar Lake, museums, and historical sites in Hyderabad.",
+    "keywords": ["Hyderabad", "2 day trip", "culture", "India"]
+  },
+  {
+    "name": "1-Day Itinerary for Bengaluru",
+    "type": "itinerary",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "description": "This 1-day itinerary covers Lalbagh, Cubbon Park, Bangalore Palace, and city attractions in Bengaluru.",
+    "keywords": ["Bengaluru", "1 day trip", "Karnataka", "India"]
+  },
+  {
+    "name": "2-Day Itinerary for Bengaluru",
+    "type": "itinerary",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "description": "This 2-day itinerary explores Nandi Hills, ISKCON Temple, museums, and cultural sites in Bengaluru.",
+    "keywords": ["Bengaluru", "2 day trip", "culture", "India"]
+  },
+  {
+    "name": "1-Day Itinerary for Udaipur",
+    "type": "itinerary",
+    "city": "Udaipur",
+    "state": "Rajasthan",
+    "country": "India",
+    "description": "This 1-day itinerary covers City Palace, Lake Pichola, Jagdish Temple, and heritage spots in Udaipur.",
+    "keywords": ["Udaipur", "1 day trip", "Rajasthan", "heritage"]
+  },
+  {
+    "name": "1-Day Itinerary for Amritsar",
+    "type": "itinerary",
+    "city": "Amritsar",
+    "state": "Punjab",
+    "country": "India",
+    "description": "This 1-day itinerary includes Golden Temple, Jallianwala Bagh, Wagah Border, and cultural landmarks in Amritsar.",
+    "keywords": ["Amritsar", "1 day trip", "Punjab", "India"]
+  },
+  {
+    "name": "1-Day Itinerary for Pune",
+    "type": "itinerary",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "country": "India",
+    "description": "This 1-day itinerary covers Shaniwar Wada, Aga Khan Palace, Pataleshwar Cave Temple, and local markets in Pune.",
+    "keywords": ["Pune", "1 day trip", "heritage", "India"]
+  },
+  {
+    "name": "2-Day Itinerary for Pune",
+    "type": "itinerary",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "country": "India",
+    "description": "This 2-day itinerary explores Sinhagad Fort, Dagdusheth Halwai Ganpati, museums, and cultural sites in Pune.",
+    "keywords": ["Pune", "2 day trip", "culture", "India"]
+  },
+  {
+    "name": "1-Day Itinerary for Indore",
+    "type": "itinerary",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "description": "This 1-day itinerary covers Rajwada Palace, Lal Bagh Palace, Sarafa Bazaar, and city landmarks in Indore.",
+    "keywords": ["Indore", "1 day trip", "heritage", "India"]
+  },
+  {
+    "name": "2-Day Itinerary for Indore",
+    "type": "itinerary",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "description": "This 2-day itinerary includes Mandu excursion, Kanch Mandir, museums, and food streets of Indore.",
+    "keywords": ["Indore", "2 day trip", "culture", "India"]
+  },
+  {
+    "name": "1-Day Itinerary for Bhopal",
+    "type": "itinerary",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "description": "This 1-day itinerary covers Upper Lake, Taj-ul-Masajid, Bharat Bhavan, and heritage sites in Bhopal.",
+    "keywords": ["Bhopal", "1 day trip", "heritage", "India"]
+  },
+  {
+    "name": "2-Day Itinerary for Bhopal",
+    "type": "itinerary",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "description": "This 2-day itinerary explores Bhimbetka Caves, Van Vihar National Park, and cultural attractions in Bhopal.",
+    "keywords": ["Bhopal", "2 day trip", "culture", "India"]
+  },
+  {
+    "name": "1-Day Itinerary for Lucknow",
+    "type": "itinerary",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "description": "This 1-day itinerary covers Bara Imambara, Chota Imambara, Rumi Darwaza, and heritage areas of Lucknow.",
+    "keywords": ["Lucknow", "1 day trip", "heritage", "India"]
+  },
+  {
+    "name": "2-Day Itinerary for Lucknow",
+    "type": "itinerary",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "description": "This 2-day itinerary includes British Residency, Hazratganj markets, museums, and food trails in Lucknow.",
+    "keywords": ["Lucknow", "2 day trip", "culture", "India"]
+  },
+  {
+    "name": "1-Day Itinerary for Chandigarh",
+    "type": "itinerary",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "country": "India",
+    "description": "This 1-day itinerary covers Rock Garden, Sukhna Lake, Rose Garden, and city attractions in Chandigarh.",
+    "keywords": ["Chandigarh", "1 day trip", "India"]
+  },
+  {
+    "name": "2-Day Itinerary for Chandigarh",
+    "type": "itinerary",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "country": "India",
+    "description": "This 2-day itinerary explores Capitol Complex, museums, leisure spots, and nearby attractions of Chandigarh.",
+    "keywords": ["Chandigarh", "2 day trip", "India"]
+  },
+
+  {
+    "name": "1-Day Itinerary for Shimla",
+    "type": "itinerary",
+    "city": "Shimla",
+    "state": "Himachal Pradesh",
+    "country": "India",
+    "description": "This 1-day itinerary covers Mall Road, Ridge, Christ Church, and scenic viewpoints in Shimla.",
+    "keywords": ["Shimla", "1 day trip", "hill station", "India"]
+  },
+  {
+    "name": "2-Day Itinerary for Shimla",
+    "type": "itinerary",
+    "city": "Shimla",
+    "state": "Himachal Pradesh",
+    "country": "India",
+    "description": "This 2-day itinerary includes Kufri, Jakhoo Temple, heritage walks, and local experiences in Shimla.",
+    "keywords": ["Shimla", "2 day trip", "Himachal", "India"]
+  },
+  {
+    "name": "1-Day Itinerary for Manali",
+    "type": "itinerary",
+    "city": "Manali",
+    "state": "Himachal Pradesh",
+    "country": "India",
+    "description": "This 1-day itinerary covers Hadimba Temple, Old Manali, Mall Road, and riverside attractions.",
+    "keywords": ["Manali", "1 day trip", "hill station", "India"]
+  },
+  {
+    "name": "2-Day Itinerary for Manali",
+    "type": "itinerary",
+    "city": "Manali",
+    "state": "Himachal Pradesh",
+    "country": "India",
+    "description": "This 2-day itinerary explores Solang Valley, Rohtang Pass, scenic views, and adventure spots near Manali.",
+    "keywords": ["Manali", "2 day trip", "adventure", "India"]
+  },
+
+  {
+    "name": "1-Day Itinerary for Rishikesh",
+    "type": "itinerary",
+    "city": "Rishikesh",
+    "state": "Uttarakhand",
+    "country": "India",
+    "description": "This 1-day itinerary covers Laxman Jhula, Ram Jhula, Ganga Aarti, and spiritual sites in Rishikesh.",
+    "keywords": ["Rishikesh", "1 day trip", "spiritual", "India"]
+  },
+  {
+    "name": "2-Day Itinerary for Rishikesh",
+    "type": "itinerary",
+    "city": "Rishikesh",
+    "state": "Uttarakhand",
+    "country": "India",
+    "description": "This 2-day itinerary includes yoga ashrams, river rafting, waterfalls, and nature experiences in Rishikesh.",
+    "keywords": ["Rishikesh", "2 day trip", "adventure", "India"]
+  },
+
+  {
+    "name": "1-Day Itinerary for Haridwar",
+    "type": "itinerary",
+    "city": "Haridwar",
+    "state": "Uttarakhand",
+    "country": "India",
+    "description": "This 1-day itinerary covers Har Ki Pauri, temples, Ganga Aarti, and local markets in Haridwar.",
+    "keywords": ["Haridwar", "1 day trip", "spiritual", "India"]
+  },
+  {
+    "name": "2-Day Itinerary for Haridwar",
+    "type": "itinerary",
+    "city": "Haridwar",
+    "state": "Uttarakhand",
+    "country": "India",
+    "description": "This 2-day itinerary explores nearby ghats, temples, and spiritual experiences around Haridwar.",
+    "keywords": ["Haridwar", "2 day trip", "India"]
+  },
+  {
+    "name": "1-Day Itinerary for Kochi",
+    "type": "itinerary",
+    "city": "Kochi",
+    "state": "Kerala",
+    "country": "India",
+    "description": "This 1-day itinerary covers Fort Kochi, Chinese Fishing Nets, St. Francis Church, and heritage areas in Kochi.",
+    "keywords": ["Kochi", "1 day trip", "Kerala", "India"]
+  },
+  {
+    "name": "2-Day Itinerary for Kochi",
+    "type": "itinerary",
+    "city": "Kochi",
+    "state": "Kerala",
+    "country": "India",
+    "description": "This 2-day itinerary explores Mattancherry Palace, Jew Town, backwaters, and cultural experiences in Kochi.",
+    "keywords": ["Kochi", "2 day trip", "culture", "India"]
+  },
+  {
+    "name": "1-Day Itinerary for Trivandrum",
+    "type": "itinerary",
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "country": "India",
+    "description": "This 1-day itinerary covers Padmanabhaswamy Temple, Napier Museum, Zoo, and city landmarks in Trivandrum.",
+    "keywords": ["Trivandrum", "1 day trip", "Kerala", "India"]
+  },
+  {
+    "name": "2-Day Itinerary for Trivandrum",
+    "type": "itinerary",
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "country": "India",
+    "description": "This 2-day itinerary includes Kovalam Beach, Varkala excursion, museums, and cultural sites in Trivandrum.",
+    "keywords": ["Trivandrum", "2 day trip", "Kerala", "India"]
+  },
+  {
+    "name": "1-Day Itinerary for Alleppey",
+    "type": "itinerary",
+    "city": "Alappuzha",
+    "state": "Kerala",
+    "country": "India",
+    "description": "This 1-day itinerary covers Alleppey Beach, backwater canals, houseboat views, and local markets.",
+    "keywords": ["Alleppey", "1 day trip", "Kerala", "India"]
+  },
+  {
+    "name": "2-Day Itinerary for Alleppey",
+    "type": "itinerary",
+    "city": "Alappuzha",
+    "state": "Kerala",
+    "country": "India",
+    "description": "This 2-day itinerary explores houseboat stays, village life, lagoons, and scenic backwaters of Alleppey.",
+    "keywords": ["Alleppey", "2 day trip", "backwaters", "India"]
+  },
+  {
+    "name": "1-Day Itinerary for Coimbatore",
+    "type": "itinerary",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "description": "This 1-day itinerary covers Marudamalai Temple, VOC Park, GD Naidu Museum, and city attractions.",
+    "keywords": ["Coimbatore", "1 day trip", "Tamil Nadu", "India"]
+  },
+  {
+    "name": "2-Day Itinerary for Coimbatore",
+    "type": "itinerary",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "description": "This 2-day itinerary includes Isha Yoga Center, waterfalls, temples, and nature spots near Coimbatore.",
+    "keywords": ["Coimbatore", "2 day trip", "Tamil Nadu", "India"]
+  },
+  {
+    "name": "1-Day Itinerary for Madurai",
+    "type": "itinerary",
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "description": "This 1-day itinerary covers Meenakshi Amman Temple, Thirumalai Nayakkar Palace, and heritage streets.",
+    "keywords": ["Madurai", "1 day trip", "heritage", "India"]
+  },
+  {
+    "name": "2-Day Itinerary for Madurai",
+    "type": "itinerary",
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "description": "This 2-day itinerary explores temples, museums, Gandhi Memorial, and cultural landmarks of Madurai.",
+    "keywords": ["Madurai", "2 day trip", "culture", "India"]
+  },
+  {
+    "name": "1-Day Itinerary for Mysuru",
+    "type": "itinerary",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "country": "India",
+    "description": "This 1-day itinerary covers Mysore Palace, Chamundi Hills, St. Philomena’s Church, and city markets.",
+    "keywords": ["Mysuru", "1 day trip", "Karnataka", "India"]
+  },
+  {
+    "name": "2-Day Itinerary for Mysuru",
+    "type": "itinerary",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "country": "India",
+    "description": "This 2-day itinerary includes Brindavan Gardens, museums, heritage walks, and cultural sites in Mysuru.",
+    "keywords": ["Mysuru", "2 day trip", "heritage", "India"]
+  },
+  {
+    "name": "1-Day Itinerary for Mangaluru",
+    "type": "itinerary",
+    "city": "Mangaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "description": "This 1-day itinerary covers Panambur Beach, Kadri Temple, St. Aloysius Chapel, and city attractions.",
+    "keywords": ["Mangaluru", "1 day trip", "coastal", "India"]
+  },
+  {
+    "name": "2-Day Itinerary for Mangaluru",
+    "type": "itinerary",
+    "city": "Mangaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "description": "This 2-day itinerary explores beaches, temples, nearby Udupi, and coastal culture of Mangaluru.",
+    "keywords": ["Mangaluru", "2 day trip", "coastal", "India"]
+  },
+  {
+    "name": "1-Day Itinerary for Udupi",
+    "type": "itinerary",
+    "city": "Udupi",
+    "state": "Karnataka",
+    "country": "India",
+    "description": "This 1-day itinerary covers Udupi Krishna Temple, Malpe Beach, and local coastal attractions.",
+    "keywords": ["Udupi", "1 day trip", "Karnataka", "India"]
+  },
+  {
+    "name": "2-Day Itinerary for Udupi",
+    "type": "itinerary",
+    "city": "Udupi",
+    "state": "Karnataka",
+    "country": "India",
+    "description": "This 2-day itinerary explores St. Mary’s Island, beaches, temples, and cultural spots in Udupi.",
+    "keywords": ["Udupi", "2 day trip", "coastal", "India"]
+  },
+  {
+    "name": "1-Day Itinerary for Gwalior",
+    "type": "itinerary",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "description": "This 1-day itinerary covers Gwalior Fort, Jai Vilas Palace, museums, and heritage areas.",
+    "keywords": ["Gwalior", "1 day trip", "heritage", "India"]
+  },
+  {
+    "name": "2-Day Itinerary for Gwalior",
+    "type": "itinerary",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "description": "This 2-day itinerary explores forts, temples, historical sites, and cultural landmarks in Gwalior.",
+    "keywords": ["Gwalior", "2 day trip", "culture", "India"]
+  }
+
+]

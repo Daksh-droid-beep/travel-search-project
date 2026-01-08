@@ -1,0 +1,4481 @@
+[
+  {
+    "name": "New Delhi",
+    "city": "New Delhi",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "New Delhi is a city in India.",
+    "keywords": [
+      "new",
+      "delhi"
+    ]
+  },
+  {
+    "name": "\u092a\u094b\u0916\u0930\u093e",
+    "city": "\u092a\u094b\u0916\u0930\u093e",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u092a\u094b\u0916\u0930\u093e is a city in India.",
+    "keywords": [
+      "\u092a\u094b\u0916\u0930\u093e"
+    ]
+  },
+  {
+    "name": "\u0915\u093e\u0920\u092e\u093e\u0921\u094c\u0902",
+    "city": "\u0915\u093e\u0920\u092e\u093e\u0921\u094c\u0902",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0915\u093e\u0920\u092e\u093e\u0921\u094c\u0902 is a city in India.",
+    "keywords": [
+      "\u0915\u093e\u0920\u092e\u093e\u0921\u094c\u0902"
+    ]
+  },
+  {
+    "name": "\u0635\u0627\u062f\u0642 \u0622\u0628\u0627\u062f",
+    "city": "\u0635\u0627\u062f\u0642 \u0622\u0628\u0627\u062f",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0635\u0627\u062f\u0642 \u0622\u0628\u0627\u062f is a city in India.",
+    "keywords": [
+      "\u0635\u0627\u062f\u0642",
+      "\u0622\u0628\u0627\u062f"
+    ]
+  },
+  {
+    "name": "\u0638\u0627\u06c1\u0631 \u067e\u06cc\u0631",
+    "city": "\u0638\u0627\u06c1\u0631 \u067e\u06cc\u0631",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0638\u0627\u06c1\u0631 \u067e\u06cc\u0631 is a city in India.",
+    "keywords": [
+      "\u067e\u06cc\u0631",
+      "\u0638\u0627\u06c1\u0631"
+    ]
+  },
+  {
+    "name": "\u767d\u6717\u53bf \u0f54\u0f0b\u0f66\u0fa3\u0f58\u0f0d",
+    "city": "\u767d\u6717\u53bf \u0f54\u0f0b\u0f66\u0fa3\u0f58\u0f0d",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u767d\u6717\u53bf \u0f54\u0f0b\u0f66\u0fa3\u0f58\u0f0d is a city in India.",
+    "keywords": [
+      "\u767d\u6717\u53bf",
+      "\u0f54\u0f0b\u0f66\u0fa3\u0f58\u0f0d"
+    ]
+  },
+  {
+    "name": "\u5b9a\u7ed3\u53bf \u0f42\u0f4f\u0f72\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7a\u0f66\u0f0d",
+    "city": "\u5b9a\u7ed3\u53bf \u0f42\u0f4f\u0f72\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7a\u0f66\u0f0d",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u5b9a\u7ed3\u53bf \u0f42\u0f4f\u0f72\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7a\u0f66\u0f0d is a city in India.",
+    "keywords": [
+      "\u0f42\u0f4f\u0f72\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7a\u0f66\u0f0d",
+      "\u5b9a\u7ed3\u53bf"
+    ]
+  },
+  {
+    "name": "\u5c97\u5df4\u53bf \u0f42\u0f58\u0f0b\u0f54\u0f0d",
+    "city": "\u5c97\u5df4\u53bf \u0f42\u0f58\u0f0b\u0f54\u0f0d",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u5c97\u5df4\u53bf \u0f42\u0f58\u0f0b\u0f54\u0f0d is a city in India.",
+    "keywords": [
+      "\u5c97\u5df4\u53bf",
+      "\u0f42\u0f58\u0f0b\u0f54\u0f0d"
+    ]
+  },
+  {
+    "name": "\u5409\u9686\u53bf \u0f66\u0f90\u0fb1\u0f72\u0f51\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0d",
+    "city": "\u5409\u9686\u53bf \u0f66\u0f90\u0fb1\u0f72\u0f51\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0d",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u5409\u9686\u53bf \u0f66\u0f90\u0fb1\u0f72\u0f51\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0d is a city in India.",
+    "keywords": [
+      "\u0f66\u0f90\u0fb1\u0f72\u0f51\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0d",
+      "\u5409\u9686\u53bf"
+    ]
+  },
+  {
+    "name": "\u6c5f\u5b5c\u53bf \u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f62\u0fa9\u0f7a\u0f0d",
+    "city": "\u6c5f\u5b5c\u53bf \u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f62\u0fa9\u0f7a\u0f0d",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u6c5f\u5b5c\u53bf \u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f62\u0fa9\u0f7a\u0f0d is a city in India.",
+    "keywords": [
+      "\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f62\u0fa9\u0f7a\u0f0d",
+      "\u6c5f\u5b5c\u53bf"
+    ]
+  },
+  {
+    "name": "\u5eb7\u9a6c\u53bf \u0f41\u0f44\u0f0b\u0f51\u0f58\u0f62\u0f0d",
+    "city": "\u5eb7\u9a6c\u53bf \u0f41\u0f44\u0f0b\u0f51\u0f58\u0f62\u0f0d",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u5eb7\u9a6c\u53bf \u0f41\u0f44\u0f0b\u0f51\u0f58\u0f62\u0f0d is a city in India.",
+    "keywords": [
+      "\u5eb7\u9a6c\u53bf",
+      "\u0f41\u0f44\u0f0b\u0f51\u0f58\u0f62\u0f0d"
+    ]
+  },
+  {
+    "name": "\u62c9\u5b5c\u53bf \u0f63\u0fb7\u0f0b\u0f62\u0fa9\u0f7a\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f0d",
+    "city": "\u62c9\u5b5c\u53bf \u0f63\u0fb7\u0f0b\u0f62\u0fa9\u0f7a\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f0d",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u62c9\u5b5c\u53bf \u0f63\u0fb7\u0f0b\u0f62\u0fa9\u0f7a\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f0d is a city in India.",
+    "keywords": [
+      "\u62c9\u5b5c\u53bf",
+      "\u0f63\u0fb7\u0f0b\u0f62\u0fa9\u0f7a\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f0d"
+    ]
+  },
+  {
+    "name": "\u5357\u6728\u6797\u53bf \u0f62\u0fa3\u0f58\u0f0b\u0f42\u0fb3\u0f72\u0f44\u0f0d",
+    "city": "\u5357\u6728\u6797\u53bf \u0f62\u0fa3\u0f58\u0f0b\u0f42\u0fb3\u0f72\u0f44\u0f0d",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u5357\u6728\u6797\u53bf \u0f62\u0fa3\u0f58\u0f0b\u0f42\u0fb3\u0f72\u0f44\u0f0d is a city in India.",
+    "keywords": [
+      "\u0f62\u0fa3\u0f58\u0f0b\u0f42\u0fb3\u0f72\u0f44\u0f0d",
+      "\u5357\u6728\u6797\u53bf"
+    ]
+  },
+  {
+    "name": "\u6602\u4ec1\u53bf \u0f44\u0f58\u0f0b\u0f62\u0f72\u0f44\u0f0d",
+    "city": "\u6602\u4ec1\u53bf \u0f44\u0f58\u0f0b\u0f62\u0f72\u0f44\u0f0d",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u6602\u4ec1\u53bf \u0f44\u0f58\u0f0b\u0f62\u0f72\u0f44\u0f0d is a city in India.",
+    "keywords": [
+      "\u6602\u4ec1\u53bf",
+      "\u0f44\u0f58\u0f0b\u0f62\u0f72\u0f44\u0f0d"
+    ]
+  },
+  {
+    "name": "\u8428\u8fe6\u53bf \u0f66\u0f0b\u0f66\u0f90\u0fb1\u0f0d",
+    "city": "\u8428\u8fe6\u53bf \u0f66\u0f0b\u0f66\u0f90\u0fb1\u0f0d",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u8428\u8fe6\u53bf \u0f66\u0f0b\u0f66\u0f90\u0fb1\u0f0d is a city in India.",
+    "keywords": [
+      "\u0f66\u0f0b\u0f66\u0f90\u0fb1\u0f0d",
+      "\u8428\u8fe6\u53bf"
+    ]
+  },
+  {
+    "name": "\u8428\u560e\u53bf \u0f66\u0f0b\u0f51\u0f42\u0f60\u0f0d",
+    "city": "\u8428\u560e\u53bf \u0f66\u0f0b\u0f51\u0f42\u0f60\u0f0d",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u8428\u560e\u53bf \u0f66\u0f0b\u0f51\u0f42\u0f60\u0f0d is a city in India.",
+    "keywords": [
+      "\u8428\u560e\u53bf",
+      "\u0f66\u0f0b\u0f51\u0f42\u0f60\u0f0d"
+    ]
+  },
+  {
+    "name": "\u4ec1\u5e03\u53bf \u0f62\u0f72\u0f53\u0f0b\u0f66\u0fa4\u0f74\u0f44\u0f66\u0f0d",
+    "city": "\u4ec1\u5e03\u53bf \u0f62\u0f72\u0f53\u0f0b\u0f66\u0fa4\u0f74\u0f44\u0f66\u0f0d",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u4ec1\u5e03\u53bf \u0f62\u0f72\u0f53\u0f0b\u0f66\u0fa4\u0f74\u0f44\u0f66\u0f0d is a city in India.",
+    "keywords": [
+      "\u0f62\u0f72\u0f53\u0f0b\u0f66\u0fa4\u0f74\u0f44\u0f66\u0f0d",
+      "\u4ec1\u5e03\u53bf"
+    ]
+  },
+  {
+    "name": "\u5b9a\u65e5\u53bf \u0f51\u0f72\u0f44\u0f0b\u0f62\u0f72\u0f0d",
+    "city": "\u5b9a\u65e5\u53bf \u0f51\u0f72\u0f44\u0f0b\u0f62\u0f72\u0f0d",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u5b9a\u65e5\u53bf \u0f51\u0f72\u0f44\u0f0b\u0f62\u0f72\u0f0d is a city in India.",
+    "keywords": [
+      "\u5b9a\u65e5\u53bf",
+      "\u0f51\u0f72\u0f44\u0f0b\u0f62\u0f72\u0f0d"
+    ]
+  },
+  {
+    "name": "\u8c22\u901a\u95e8\u53bf \u0f56\u0f5e\u0f51\u0f0b\u0f58\u0f50\u0f7c\u0f44\u0f0b\u0f66\u0fa8\u0f7c\u0f53\u0f0d",
+    "city": "\u8c22\u901a\u95e8\u53bf \u0f56\u0f5e\u0f51\u0f0b\u0f58\u0f50\u0f7c\u0f44\u0f0b\u0f66\u0fa8\u0f7c\u0f53\u0f0d",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u8c22\u901a\u95e8\u53bf \u0f56\u0f5e\u0f51\u0f0b\u0f58\u0f50\u0f7c\u0f44\u0f0b\u0f66\u0fa8\u0f7c\u0f53\u0f0d is a city in India.",
+    "keywords": [
+      "\u0f56\u0f5e\u0f51\u0f0b\u0f58\u0f50\u0f7c\u0f44\u0f0b\u0f66\u0fa8\u0f7c\u0f53\u0f0d",
+      "\u8c22\u901a\u95e8\u53bf"
+    ]
+  },
+  {
+    "name": "\u4ef2\u5df4\u53bf \u0f60\u0f56\u0fb2\u0f7c\u0f44\u0f0b\u0f54\u0f0d",
+    "city": "\u4ef2\u5df4\u53bf \u0f60\u0f56\u0fb2\u0f7c\u0f44\u0f0b\u0f54\u0f0d",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u4ef2\u5df4\u53bf \u0f60\u0f56\u0fb2\u0f7c\u0f44\u0f0b\u0f54\u0f0d is a city in India.",
+    "keywords": [
+      "\u4ef2\u5df4\u53bf",
+      "\u0f60\u0f56\u0fb2\u0f7c\u0f44\u0f0b\u0f54\u0f0d"
+    ]
+  },
+  {
+    "name": "Nashik",
+    "city": "Nashik",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Nashik is a city in India.",
+    "keywords": [
+      "nashik"
+    ]
+  },
+  {
+    "name": "Silvassa",
+    "city": "Silvassa",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Silvassa is a city in India.",
+    "keywords": [
+      "silvassa"
+    ]
+  },
+  {
+    "name": "Vapi",
+    "city": "Vapi",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Vapi is a city in India.",
+    "keywords": [
+      "vapi"
+    ]
+  },
+  {
+    "name": "Yavatmal",
+    "city": "Yavatmal",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Yavatmal is a city in India.",
+    "keywords": [
+      "yavatmal"
+    ]
+  },
+  {
+    "name": "Cuttack",
+    "city": "Cuttack",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Cuttack is a city in India.",
+    "keywords": [
+      "cuttack"
+    ]
+  },
+  {
+    "name": "Malegaon",
+    "city": "Malegaon",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Malegaon is a city in India.",
+    "keywords": [
+      "malegaon"
+    ]
+  },
+  {
+    "name": "Hinganghat",
+    "city": "Hinganghat",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Hinganghat is a city in India.",
+    "keywords": [
+      "hinganghat"
+    ]
+  },
+  {
+    "name": "Akola",
+    "city": "Akola",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Akola is a city in India.",
+    "keywords": [
+      "akola"
+    ]
+  },
+  {
+    "name": "Wardha",
+    "city": "Wardha",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Wardha is a city in India.",
+    "keywords": [
+      "wardha"
+    ]
+  },
+  {
+    "name": "Dhule",
+    "city": "Dhule",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Dhule is a city in India.",
+    "keywords": [
+      "dhule"
+    ]
+  },
+  {
+    "name": "Veraval",
+    "city": "Veraval",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Veraval is a city in India.",
+    "keywords": [
+      "veraval"
+    ]
+  },
+  {
+    "name": "Navsari",
+    "city": "Navsari",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Navsari is a city in India.",
+    "keywords": [
+      "navsari"
+    ]
+  },
+  {
+    "name": "Burhanpur",
+    "city": "Burhanpur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Burhanpur is a city in India.",
+    "keywords": [
+      "burhanpur"
+    ]
+  },
+  {
+    "name": "Nandurbar",
+    "city": "Nandurbar",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Nandurbar is a city in India.",
+    "keywords": [
+      "nandurbar"
+    ]
+  },
+  {
+    "name": "Tumsar",
+    "city": "Tumsar",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Tumsar is a city in India.",
+    "keywords": [
+      "tumsar"
+    ]
+  },
+  {
+    "name": "Bharuch",
+    "city": "Bharuch",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bharuch is a city in India.",
+    "keywords": [
+      "bharuch"
+    ]
+  },
+  {
+    "name": "Bhavnagar",
+    "city": "Bhavnagar",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bhavnagar is a city in India.",
+    "keywords": [
+      "bhavnagar"
+    ]
+  },
+  {
+    "name": "Khandwa",
+    "city": "Khandwa",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Khandwa is a city in India.",
+    "keywords": [
+      "khandwa"
+    ]
+  },
+  {
+    "name": "Baripada",
+    "city": "Baripada",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Baripada is a city in India.",
+    "keywords": [
+      "baripada"
+    ]
+  },
+  {
+    "name": "Chhindwara",
+    "city": "Chhindwara",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Chhindwara is a city in India.",
+    "keywords": [
+      "chhindwara"
+    ]
+  },
+  {
+    "name": "Bilaspur",
+    "city": "Bilaspur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bilaspur is a city in India.",
+    "keywords": [
+      "bilaspur"
+    ]
+  },
+  {
+    "name": "Seoni",
+    "city": "Seoni",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Seoni is a city in India.",
+    "keywords": [
+      "seoni"
+    ]
+  },
+  {
+    "name": "Botad",
+    "city": "Botad",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Botad is a city in India.",
+    "keywords": [
+      "botad"
+    ]
+  },
+  {
+    "name": "Diamond Harbour",
+    "city": "Diamond Harbour",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Diamond Harbour is a city in India.",
+    "keywords": [
+      "harbour",
+      "diamond"
+    ]
+  },
+  {
+    "name": "Kharagpur",
+    "city": "Kharagpur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Kharagpur is a city in India.",
+    "keywords": [
+      "kharagpur"
+    ]
+  },
+  {
+    "name": "Baruipur",
+    "city": "Baruipur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Baruipur is a city in India.",
+    "keywords": [
+      "baruipur"
+    ]
+  },
+  {
+    "name": "Medinipur",
+    "city": "Medinipur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Medinipur is a city in India.",
+    "keywords": [
+      "medinipur"
+    ]
+  },
+  {
+    "name": "Kolkata",
+    "city": "Kolkata",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Kolkata is a city in India.",
+    "keywords": [
+      "kolkata"
+    ]
+  },
+  {
+    "name": "Basirhat",
+    "city": "Basirhat",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Basirhat is a city in India.",
+    "keywords": [
+      "basirhat"
+    ]
+  },
+  {
+    "name": "Nadiad",
+    "city": "Nadiad",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Nadiad is a city in India.",
+    "keywords": [
+      "nadiad"
+    ]
+  },
+  {
+    "name": "Indore",
+    "city": "Indore",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Indore is a city in India.",
+    "keywords": [
+      "indore"
+    ]
+  },
+  {
+    "name": "Morbi",
+    "city": "Morbi",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Morbi is a city in India.",
+    "keywords": [
+      "morbi"
+    ]
+  },
+  {
+    "name": "Ahmedabad",
+    "city": "Ahmedabad",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Ahmedabad is a city in India.",
+    "keywords": [
+      "ahmedabad"
+    ]
+  },
+  {
+    "name": "Jabalpur",
+    "city": "Jabalpur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Jabalpur is a city in India.",
+    "keywords": [
+      "jabalpur"
+    ]
+  },
+  {
+    "name": "Ujjain",
+    "city": "Ujjain",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Ujjain is a city in India.",
+    "keywords": [
+      "ujjain"
+    ]
+  },
+  {
+    "name": "Shantipur",
+    "city": "Shantipur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Shantipur is a city in India.",
+    "keywords": [
+      "shantipur"
+    ]
+  },
+  {
+    "name": "Kalol",
+    "city": "Kalol",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Kalol is a city in India.",
+    "keywords": [
+      "kalol"
+    ]
+  },
+  {
+    "name": "Bhopal",
+    "city": "Bhopal",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bhopal is a city in India.",
+    "keywords": [
+      "bhopal"
+    ]
+  },
+  {
+    "name": "Nabadwip",
+    "city": "Nabadwip",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Nabadwip is a city in India.",
+    "keywords": [
+      "nabadwip"
+    ]
+  },
+  {
+    "name": "Krishnanagar",
+    "city": "Krishnanagar",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Krishnanagar is a city in India.",
+    "keywords": [
+      "krishnanagar"
+    ]
+  },
+  {
+    "name": "\u0ab0\u0abe\u0aaa\u0ab0",
+    "city": "\u0ab0\u0abe\u0aaa\u0ab0",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0ab0\u0abe\u0aaa\u0ab0 is a city in India.",
+    "keywords": [
+      "\u0ab0\u0abe\u0aaa\u0ab0"
+    ]
+  },
+  {
+    "name": "Mahesana",
+    "city": "Mahesana",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Mahesana is a city in India.",
+    "keywords": [
+      "mahesana"
+    ]
+  },
+  {
+    "name": "Tehatta",
+    "city": "Tehatta",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Tehatta is a city in India.",
+    "keywords": [
+      "tehatta"
+    ]
+  },
+  {
+    "name": "Beldanga",
+    "city": "Beldanga",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Beldanga is a city in India.",
+    "keywords": [
+      "beldanga"
+    ]
+  },
+  {
+    "name": "Mandsaur",
+    "city": "Mandsaur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Mandsaur is a city in India.",
+    "keywords": [
+      "mandsaur"
+    ]
+  },
+  {
+    "name": "Berhampore",
+    "city": "Berhampore",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Berhampore is a city in India.",
+    "keywords": [
+      "berhampore"
+    ]
+  },
+  {
+    "name": "Palanpur",
+    "city": "Palanpur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Palanpur is a city in India.",
+    "keywords": [
+      "palanpur"
+    ]
+  },
+  {
+    "name": "Giridih",
+    "city": "Giridih",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Giridih is a city in India.",
+    "keywords": [
+      "giridih"
+    ]
+  },
+  {
+    "name": "Deesa",
+    "city": "Deesa",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Deesa is a city in India.",
+    "keywords": [
+      "deesa"
+    ]
+  },
+  {
+    "name": "Deoghar",
+    "city": "Deoghar",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Deoghar is a city in India.",
+    "keywords": [
+      "deoghar"
+    ]
+  },
+  {
+    "name": "Rewa",
+    "city": "Rewa",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Rewa is a city in India.",
+    "keywords": [
+      "rewa"
+    ]
+  },
+  {
+    "name": "Satna",
+    "city": "Satna",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Satna is a city in India.",
+    "keywords": [
+      "satna"
+    ]
+  },
+  {
+    "name": "Gaya",
+    "city": "Gaya",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Gaya is a city in India.",
+    "keywords": [
+      "gaya"
+    ]
+  },
+  {
+    "name": "Dehri",
+    "city": "Dehri",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Dehri is a city in India.",
+    "keywords": [
+      "dehri"
+    ]
+  },
+  {
+    "name": "Chittorgarh",
+    "city": "Chittorgarh",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Chittorgarh is a city in India.",
+    "keywords": [
+      "chittorgarh"
+    ]
+  },
+  {
+    "name": "Sasaram",
+    "city": "Sasaram",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Sasaram is a city in India.",
+    "keywords": [
+      "sasaram"
+    ]
+  },
+  {
+    "name": "Malda",
+    "city": "Malda",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Malda is a city in India.",
+    "keywords": [
+      "malda"
+    ]
+  },
+  {
+    "name": "Bihar Sharif",
+    "city": "Bihar Sharif",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bihar Sharif is a city in India.",
+    "keywords": [
+      "bihar",
+      "sharif"
+    ]
+  },
+  {
+    "name": "Kota",
+    "city": "Kota",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Kota is a city in India.",
+    "keywords": [
+      "kota"
+    ]
+  },
+  {
+    "name": "Jehanabad",
+    "city": "Jehanabad",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Jehanabad is a city in India.",
+    "keywords": [
+      "jehanabad"
+    ]
+  },
+  {
+    "name": "Balurghat",
+    "city": "Balurghat",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Balurghat is a city in India.",
+    "keywords": [
+      "balurghat"
+    ]
+  },
+  {
+    "name": "Bhagalpur",
+    "city": "Bhagalpur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bhagalpur is a city in India.",
+    "keywords": [
+      "bhagalpur"
+    ]
+  },
+  {
+    "name": "Bhilwara",
+    "city": "Bhilwara",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bhilwara is a city in India.",
+    "keywords": [
+      "bhilwara"
+    ]
+  },
+  {
+    "name": "Begusarai",
+    "city": "Begusarai",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Begusarai is a city in India.",
+    "keywords": [
+      "begusarai"
+    ]
+  },
+  {
+    "name": "Prayagraj",
+    "city": "Prayagraj",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Prayagraj is a city in India.",
+    "keywords": [
+      "prayagraj"
+    ]
+  },
+  {
+    "name": "Arrah",
+    "city": "Arrah",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Arrah is a city in India.",
+    "keywords": [
+      "arrah"
+    ]
+  },
+  {
+    "name": "Buxar",
+    "city": "Buxar",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Buxar is a city in India.",
+    "keywords": [
+      "buxar"
+    ]
+  },
+  {
+    "name": "Barmer",
+    "city": "Barmer",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Barmer is a city in India.",
+    "keywords": [
+      "barmer"
+    ]
+  },
+  {
+    "name": "Ballia",
+    "city": "Ballia",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Ballia is a city in India.",
+    "keywords": [
+      "ballia"
+    ]
+  },
+  {
+    "name": "Jaunpur",
+    "city": "Jaunpur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Jaunpur is a city in India.",
+    "keywords": [
+      "jaunpur"
+    ]
+  },
+  {
+    "name": "Pali",
+    "city": "Pali",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Pali is a city in India.",
+    "keywords": [
+      "pali"
+    ]
+  },
+  {
+    "name": "Chhapra",
+    "city": "Chhapra",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Chhapra is a city in India.",
+    "keywords": [
+      "chhapra"
+    ]
+  },
+  {
+    "name": "Purnia",
+    "city": "Purnia",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Purnia is a city in India.",
+    "keywords": [
+      "purnia"
+    ]
+  },
+  {
+    "name": "Balotra",
+    "city": "Balotra",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Balotra is a city in India.",
+    "keywords": [
+      "balotra"
+    ]
+  },
+  {
+    "name": "Saharsa",
+    "city": "Saharsa",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Saharsa is a city in India.",
+    "keywords": [
+      "saharsa"
+    ]
+  },
+  {
+    "name": "Fatehpur",
+    "city": "Fatehpur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Fatehpur is a city in India.",
+    "keywords": [
+      "fatehpur"
+    ]
+  },
+  {
+    "name": "Orai",
+    "city": "Orai",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Orai is a city in India.",
+    "keywords": [
+      "orai"
+    ]
+  },
+  {
+    "name": "Dhubri",
+    "city": "Dhubri",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Dhubri is a city in India.",
+    "keywords": [
+      "dhubri"
+    ]
+  },
+  {
+    "name": "Raebareli",
+    "city": "Raebareli",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Raebareli is a city in India.",
+    "keywords": [
+      "raebareli"
+    ]
+  },
+  {
+    "name": "Jodhpur",
+    "city": "Jodhpur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Jodhpur is a city in India.",
+    "keywords": [
+      "jodhpur"
+    ]
+  },
+  {
+    "name": "Akbarpur",
+    "city": "Akbarpur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Akbarpur is a city in India.",
+    "keywords": [
+      "akbarpur"
+    ]
+  },
+  {
+    "name": "Ajmer",
+    "city": "Ajmer",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Ajmer is a city in India.",
+    "keywords": [
+      "ajmer"
+    ]
+  },
+  {
+    "name": "Deoria",
+    "city": "Deoria",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Deoria is a city in India.",
+    "keywords": [
+      "deoria"
+    ]
+  },
+  {
+    "name": "Dhaulpur",
+    "city": "Dhaulpur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Dhaulpur is a city in India.",
+    "keywords": [
+      "dhaulpur"
+    ]
+  },
+  {
+    "name": "Faizabad",
+    "city": "Faizabad",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Faizabad is a city in India.",
+    "keywords": [
+      "faizabad"
+    ]
+  },
+  {
+    "name": "Ayodhya",
+    "city": "Ayodhya",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Ayodhya is a city in India.",
+    "keywords": [
+      "ayodhya"
+    ]
+  },
+  {
+    "name": "Basti",
+    "city": "Basti",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Basti is a city in India.",
+    "keywords": [
+      "basti"
+    ]
+  },
+  {
+    "name": "Bettiah",
+    "city": "Bettiah",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bettiah is a city in India.",
+    "keywords": [
+      "bettiah"
+    ]
+  },
+  {
+    "name": "Lucknow",
+    "city": "Lucknow",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Lucknow is a city in India.",
+    "keywords": [
+      "lucknow"
+    ]
+  },
+  {
+    "name": "Barabanki",
+    "city": "Barabanki",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Barabanki is a city in India.",
+    "keywords": [
+      "barabanki"
+    ]
+  },
+  {
+    "name": "Gonda",
+    "city": "Gonda",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Gonda is a city in India.",
+    "keywords": [
+      "gonda"
+    ]
+  },
+  {
+    "name": "Etah",
+    "city": "Etah",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Etah is a city in India.",
+    "keywords": [
+      "etah"
+    ]
+  },
+  {
+    "name": "Sitapur",
+    "city": "Sitapur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Sitapur is a city in India.",
+    "keywords": [
+      "sitapur"
+    ]
+  },
+  {
+    "name": "Bahraich",
+    "city": "Bahraich",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bahraich is a city in India.",
+    "keywords": [
+      "bahraich"
+    ]
+  },
+  {
+    "name": "Kasganj",
+    "city": "Kasganj",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Kasganj is a city in India.",
+    "keywords": [
+      "kasganj"
+    ]
+  },
+  {
+    "name": "Aligarh",
+    "city": "Aligarh",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Aligarh is a city in India.",
+    "keywords": [
+      "aligarh"
+    ]
+  },
+  {
+    "name": "Budaun",
+    "city": "Budaun",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Budaun is a city in India.",
+    "keywords": [
+      "budaun"
+    ]
+  },
+  {
+    "name": "Bareilly",
+    "city": "Bareilly",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bareilly is a city in India.",
+    "keywords": [
+      "bareilly"
+    ]
+  },
+  {
+    "name": "Bahadurgarh",
+    "city": "Bahadurgarh",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bahadurgarh is a city in India.",
+    "keywords": [
+      "bahadurgarh"
+    ]
+  },
+  {
+    "name": "Sonipat",
+    "city": "Sonipat",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Sonipat is a city in India.",
+    "keywords": [
+      "sonipat"
+    ]
+  },
+  {
+    "name": "Panipat",
+    "city": "Panipat",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Panipat is a city in India.",
+    "keywords": [
+      "panipat"
+    ]
+  },
+  {
+    "name": "Muzaffarnagar",
+    "city": "Muzaffarnagar",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Muzaffarnagar is a city in India.",
+    "keywords": [
+      "muzaffarnagar"
+    ]
+  },
+  {
+    "name": "Sirsa",
+    "city": "Sirsa",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Sirsa is a city in India.",
+    "keywords": [
+      "sirsa"
+    ]
+  },
+  {
+    "name": "Almora",
+    "city": "Almora",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Almora is a city in India.",
+    "keywords": [
+      "almora"
+    ]
+  },
+  {
+    "name": "Kurukshetra",
+    "city": "Kurukshetra",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Kurukshetra is a city in India.",
+    "keywords": [
+      "kurukshetra"
+    ]
+  },
+  {
+    "name": "\u0f66\u0fa4\u0f0b\u0f62\u0f7c\u0f0d",
+    "city": "\u0f66\u0fa4\u0f0b\u0f62\u0f7c\u0f0d",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0f66\u0fa4\u0f0b\u0f62\u0f7c\u0f0d is a city in India.",
+    "keywords": [
+      "\u0f66\u0fa4\u0f0b\u0f62\u0f7c\u0f0d"
+    ]
+  },
+  {
+    "name": "\u0628\u06c1\u0627\u0648\u0644\u067e\u0648\u0631",
+    "city": "\u0628\u06c1\u0627\u0648\u0644\u067e\u0648\u0631",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0628\u06c1\u0627\u0648\u0644\u067e\u0648\u0631 is a city in India.",
+    "keywords": [
+      "\u0628\u06c1\u0627\u0648\u0644\u067e\u0648\u0631"
+    ]
+  },
+  {
+    "name": "\u0644\u0648\u062f\u06be\u0631\u0627\u06ba",
+    "city": "\u0644\u0648\u062f\u06be\u0631\u0627\u06ba",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0644\u0648\u062f\u06be\u0631\u0627\u06ba is a city in India.",
+    "keywords": [
+      "\u0644\u0648\u062f\u06be\u0631\u0627\u06ba"
+    ]
+  },
+  {
+    "name": "\u0627\u062d\u0645\u062f \u067e\u0648\u0631 \u0634\u0631\u0642\u06cc\u06c1",
+    "city": "\u0627\u062d\u0645\u062f \u067e\u0648\u0631 \u0634\u0631\u0642\u06cc\u06c1",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0627\u062d\u0645\u062f \u067e\u0648\u0631 \u0634\u0631\u0642\u06cc\u06c1 is a city in India.",
+    "keywords": [
+      "\u0634\u0631\u0642\u06cc\u06c1",
+      "\u0627\u062d\u0645\u062f",
+      "\u067e\u0648\u0631"
+    ]
+  },
+  {
+    "name": "\u0631\u062d\u06cc\u0645 \u06cc\u0627\u0631 \u062e\u0627\u0646",
+    "city": "\u0631\u062d\u06cc\u0645 \u06cc\u0627\u0631 \u062e\u0627\u0646",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0631\u062d\u06cc\u0645 \u06cc\u0627\u0631 \u062e\u0627\u0646 is a city in India.",
+    "keywords": [
+      "\u06cc\u0627\u0631",
+      "\u0631\u062d\u06cc\u0645",
+      "\u062e\u0627\u0646"
+    ]
+  },
+  {
+    "name": "\u062e\u0627\u0646\u067e\u0648\u0631",
+    "city": "\u062e\u0627\u0646\u067e\u0648\u0631",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u062e\u0627\u0646\u067e\u0648\u0631 is a city in India.",
+    "keywords": [
+      "\u062e\u0627\u0646\u067e\u0648\u0631"
+    ]
+  },
+  {
+    "name": "\u0628\u06c1\u0627\u0648\u0644\u0646\u06af\u0631",
+    "city": "\u0628\u06c1\u0627\u0648\u0644\u0646\u06af\u0631",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0628\u06c1\u0627\u0648\u0644\u0646\u06af\u0631 is a city in India.",
+    "keywords": [
+      "\u0628\u06c1\u0627\u0648\u0644\u0646\u06af\u0631"
+    ]
+  },
+  {
+    "name": "\u062d\u0627\u0635\u0644 \u067e\u0648\u0631",
+    "city": "\u062d\u0627\u0635\u0644 \u067e\u0648\u0631",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u062d\u0627\u0635\u0644 \u067e\u0648\u0631 is a city in India.",
+    "keywords": [
+      "\u062d\u0627\u0635\u0644",
+      "\u067e\u0648\u0631"
+    ]
+  },
+  {
+    "name": "\u06c1\u0627\u0631\u0648\u0646 \u0622\u0628\u0627\u062f",
+    "city": "\u06c1\u0627\u0631\u0648\u0646 \u0622\u0628\u0627\u062f",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u06c1\u0627\u0631\u0648\u0646 \u0622\u0628\u0627\u062f is a city in India.",
+    "keywords": [
+      "\u06c1\u0627\u0631\u0648\u0646",
+      "\u0622\u0628\u0627\u062f"
+    ]
+  },
+  {
+    "name": "\u0634\u062c\u0627\u0639 \u0622\u0628\u0627\u062f\u200e",
+    "city": "\u0634\u062c\u0627\u0639 \u0622\u0628\u0627\u062f\u200e",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0634\u062c\u0627\u0639 \u0622\u0628\u0627\u062f\u200e is a city in India.",
+    "keywords": [
+      "\u0634\u062c\u0627\u0639",
+      "\u0622\u0628\u0627\u062f\u200e"
+    ]
+  },
+  {
+    "name": "\u0645\u06cc\u0644\u0633\u06cc",
+    "city": "\u0645\u06cc\u0644\u0633\u06cc",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0645\u06cc\u0644\u0633\u06cc is a city in India.",
+    "keywords": [
+      "\u0645\u06cc\u0644\u0633\u06cc"
+    ]
+  },
+  {
+    "name": "\u0928\u0947\u092a\u093e\u0932\u0917\u0928\u094d\u091c",
+    "city": "\u0928\u0947\u092a\u093e\u0932\u0917\u0928\u094d\u091c",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0928\u0947\u092a\u093e\u0932\u0917\u0928\u094d\u091c is a city in India.",
+    "keywords": [
+      "\u0928\u0947\u092a\u093e\u0932\u0917\u0928\u094d\u091c"
+    ]
+  },
+  {
+    "name": "Varanasi",
+    "city": "Varanasi",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Varanasi is a city in India.",
+    "keywords": [
+      "varanasi"
+    ]
+  },
+  {
+    "name": "\u0915\u094b\u0939\u0932\u092a\u0941\u0930",
+    "city": "\u0915\u094b\u0939\u0932\u092a\u0941\u0930",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0915\u094b\u0939\u0932\u092a\u0941\u0930 is a city in India.",
+    "keywords": [
+      "\u0915\u094b\u0939\u0932\u092a\u0941\u0930"
+    ]
+  },
+  {
+    "name": "\u0939\u0947\u091f\u094c\u0901\u0921\u093e",
+    "city": "\u0939\u0947\u091f\u094c\u0901\u0921\u093e",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0939\u0947\u091f\u094c\u0901\u0921\u093e is a city in India.",
+    "keywords": [
+      "\u0939\u0947\u091f\u094c\u0901\u0921\u093e"
+    ]
+  },
+  {
+    "name": "Noida",
+    "city": "Noida",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Noida is a city in India.",
+    "keywords": [
+      "noida"
+    ]
+  },
+  {
+    "name": "Jaipur",
+    "city": "Jaipur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Jaipur is a city in India.",
+    "keywords": [
+      "jaipur"
+    ]
+  },
+  {
+    "name": "Delhi",
+    "city": "Delhi",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Delhi is a city in India.",
+    "keywords": [
+      "delhi"
+    ]
+  },
+  {
+    "name": "\u09af\u09b6\u09cb\u09b0",
+    "city": "\u09af\u09b6\u09cb\u09b0",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u09af\u09b6\u09cb\u09b0 is a city in India.",
+    "keywords": [
+      "\u09af\u09b6\u09cb\u09b0"
+    ]
+  },
+  {
+    "name": "\u0997\u09cb\u09aa\u09be\u09b2\u0997\u099e\u09cd\u099c",
+    "city": "\u0997\u09cb\u09aa\u09be\u09b2\u0997\u099e\u09cd\u099c",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0997\u09cb\u09aa\u09be\u09b2\u0997\u099e\u09cd\u099c is a city in India.",
+    "keywords": [
+      "\u0997\u09cb\u09aa\u09be\u09b2\u0997\u099e\u09cd\u099c"
+    ]
+  },
+  {
+    "name": "\u0996\u09c1\u09b2\u09a8\u09be",
+    "city": "\u0996\u09c1\u09b2\u09a8\u09be",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0996\u09c1\u09b2\u09a8\u09be is a city in India.",
+    "keywords": [
+      "\u0996\u09c1\u09b2\u09a8\u09be"
+    ]
+  },
+  {
+    "name": "\u092c\u093f\u0930\u093e\u091f\u0928\u0917\u0930",
+    "city": "\u092c\u093f\u0930\u093e\u091f\u0928\u0917\u0930",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u092c\u093f\u0930\u093e\u091f\u0928\u0917\u0930 is a city in India.",
+    "keywords": [
+      "\u092c\u093f\u0930\u093e\u091f\u0928\u0917\u0930"
+    ]
+  },
+  {
+    "name": "Howrah",
+    "city": "Howrah",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Howrah is a city in India.",
+    "keywords": [
+      "howrah"
+    ]
+  },
+  {
+    "name": "Gangtok",
+    "city": "Gangtok",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Gangtok is a city in India.",
+    "keywords": [
+      "gangtok"
+    ]
+  },
+  {
+    "name": "Haldwani",
+    "city": "Haldwani",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Haldwani is a city in India.",
+    "keywords": [
+      "haldwani"
+    ]
+  },
+  {
+    "name": "Rudrapur",
+    "city": "Rudrapur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Rudrapur is a city in India.",
+    "keywords": [
+      "rudrapur"
+    ]
+  },
+  {
+    "name": "Hanumangarh",
+    "city": "Hanumangarh",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Hanumangarh is a city in India.",
+    "keywords": [
+      "hanumangarh"
+    ]
+  },
+  {
+    "name": "Jaisalmer",
+    "city": "Jaisalmer",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Jaisalmer is a city in India.",
+    "keywords": [
+      "jaisalmer"
+    ]
+  },
+  {
+    "name": "\u09ac\u0997\u09c1\u09dc\u09be",
+    "city": "\u09ac\u0997\u09c1\u09dc\u09be",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u09ac\u0997\u09c1\u09dc\u09be is a city in India.",
+    "keywords": [
+      "\u09ac\u0997\u09c1\u09dc\u09be"
+    ]
+  },
+  {
+    "name": "\u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0",
+    "city": "\u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0 is a city in India.",
+    "keywords": [
+      "\u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0"
+    ]
+  },
+  {
+    "name": "Patna",
+    "city": "Patna",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Patna is a city in India.",
+    "keywords": [
+      "patna"
+    ]
+  },
+  {
+    "name": "Bundi",
+    "city": "Bundi",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bundi is a city in India.",
+    "keywords": [
+      "bundi"
+    ]
+  },
+  {
+    "name": "Rewari",
+    "city": "Rewari",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Rewari is a city in India.",
+    "keywords": [
+      "rewari"
+    ]
+  },
+  {
+    "name": "Nagpur",
+    "city": "Nagpur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Nagpur is a city in India.",
+    "keywords": [
+      "nagpur"
+    ]
+  },
+  {
+    "name": "Jamshedpur",
+    "city": "Jamshedpur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Jamshedpur is a city in India.",
+    "keywords": [
+      "jamshedpur"
+    ]
+  },
+  {
+    "name": "Muzaffarpur",
+    "city": "Muzaffarpur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Muzaffarpur is a city in India.",
+    "keywords": [
+      "muzaffarpur"
+    ]
+  },
+  {
+    "name": "\u092d\u0930\u0924\u092a\u0941\u0930",
+    "city": "\u092d\u0930\u0924\u092a\u0941\u0930",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u092d\u0930\u0924\u092a\u0941\u0930 is a city in India.",
+    "keywords": [
+      "\u092d\u0930\u0924\u092a\u0941\u0930"
+    ]
+  },
+  {
+    "name": "Hajipur",
+    "city": "Hajipur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Hajipur is a city in India.",
+    "keywords": [
+      "hajipur"
+    ]
+  },
+  {
+    "name": "Agra",
+    "city": "Agra",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Agra is a city in India.",
+    "keywords": [
+      "agra"
+    ]
+  },
+  {
+    "name": "Mathura",
+    "city": "Mathura",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Mathura is a city in India.",
+    "keywords": [
+      "mathura"
+    ]
+  },
+  {
+    "name": "Bharatpur",
+    "city": "Bharatpur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bharatpur is a city in India.",
+    "keywords": [
+      "bharatpur"
+    ]
+  },
+  {
+    "name": "Morena",
+    "city": "Morena",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Morena is a city in India.",
+    "keywords": [
+      "morena"
+    ]
+  },
+  {
+    "name": "Gwalior",
+    "city": "Gwalior",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Gwalior is a city in India.",
+    "keywords": [
+      "gwalior"
+    ]
+  },
+  {
+    "name": "Mirzapur",
+    "city": "Mirzapur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Mirzapur is a city in India.",
+    "keywords": [
+      "mirzapur"
+    ]
+  },
+  {
+    "name": "Alipurduar",
+    "city": "Alipurduar",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Alipurduar is a city in India.",
+    "keywords": [
+      "alipurduar"
+    ]
+  },
+  {
+    "name": "Koch Bihar",
+    "city": "Koch Bihar",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Koch Bihar is a city in India.",
+    "keywords": [
+      "bihar",
+      "koch"
+    ]
+  },
+  {
+    "name": "Raiganj",
+    "city": "Raiganj",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Raiganj is a city in India.",
+    "keywords": [
+      "raiganj"
+    ]
+  },
+  {
+    "name": "Siuri",
+    "city": "Siuri",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Siuri is a city in India.",
+    "keywords": [
+      "siuri"
+    ]
+  },
+  {
+    "name": "Uluberia",
+    "city": "Uluberia",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Uluberia is a city in India.",
+    "keywords": [
+      "uluberia"
+    ]
+  },
+  {
+    "name": "Ranaghat",
+    "city": "Ranaghat",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Ranaghat is a city in India.",
+    "keywords": [
+      "ranaghat"
+    ]
+  },
+  {
+    "name": "Chakdaha",
+    "city": "Chakdaha",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Chakdaha is a city in India.",
+    "keywords": [
+      "chakdaha"
+    ]
+  },
+  {
+    "name": "Barasat",
+    "city": "Barasat",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Barasat is a city in India.",
+    "keywords": [
+      "barasat"
+    ]
+  },
+  {
+    "name": "Naihati",
+    "city": "Naihati",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Naihati is a city in India.",
+    "keywords": [
+      "naihati"
+    ]
+  },
+  {
+    "name": "Meerut",
+    "city": "Meerut",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Meerut is a city in India.",
+    "keywords": [
+      "meerut"
+    ]
+  },
+  {
+    "name": "Banda",
+    "city": "Banda",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Banda is a city in India.",
+    "keywords": [
+      "banda"
+    ]
+  },
+  {
+    "name": "Pilibhit",
+    "city": "Pilibhit",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Pilibhit is a city in India.",
+    "keywords": [
+      "pilibhit"
+    ]
+  },
+  {
+    "name": "\u092c\u093f\u0930\u094d\u0924\u093e\u092e\u094b\u0921",
+    "city": "\u092c\u093f\u0930\u094d\u0924\u093e\u092e\u094b\u0921",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u092c\u093f\u0930\u094d\u0924\u093e\u092e\u094b\u0921 is a city in India.",
+    "keywords": [
+      "\u092c\u093f\u0930\u094d\u0924\u093e\u092e\u094b\u0921"
+    ]
+  },
+  {
+    "name": "\u0926\u092e\u0915",
+    "city": "\u0926\u092e\u0915",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0926\u092e\u0915 is a city in India.",
+    "keywords": [
+      "\u0926\u092e\u0915"
+    ]
+  },
+  {
+    "name": "Siliguri",
+    "city": "Siliguri",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Siliguri is a city in India.",
+    "keywords": [
+      "siliguri"
+    ]
+  },
+  {
+    "name": "Gorakhpur",
+    "city": "Gorakhpur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Gorakhpur is a city in India.",
+    "keywords": [
+      "gorakhpur"
+    ]
+  },
+  {
+    "name": "\u092c\u0940\u0930\u0917\u0928\u094d\u091c",
+    "city": "\u092c\u0940\u0930\u0917\u0928\u094d\u091c",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u092c\u0940\u0930\u0917\u0928\u094d\u091c is a city in India.",
+    "keywords": [
+      "\u092c\u0940\u0930\u0917\u0928\u094d\u091c"
+    ]
+  },
+  {
+    "name": "Dewas",
+    "city": "Dewas",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Dewas is a city in India.",
+    "keywords": [
+      "dewas"
+    ]
+  },
+  {
+    "name": "Sehore",
+    "city": "Sehore",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Sehore is a city in India.",
+    "keywords": [
+      "sehore"
+    ]
+  },
+  {
+    "name": "\u09b0\u0982\u09aa\u09c1\u09b0",
+    "city": "\u09b0\u0982\u09aa\u09c1\u09b0",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u09b0\u0982\u09aa\u09c1\u09b0 is a city in India.",
+    "keywords": [
+      "\u09b0\u0982\u09aa\u09c1\u09b0"
+    ]
+  },
+  {
+    "name": "Korba",
+    "city": "Korba",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Korba is a city in India.",
+    "keywords": [
+      "korba"
+    ]
+  },
+  {
+    "name": "Junagadh",
+    "city": "Junagadh",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Junagadh is a city in India.",
+    "keywords": [
+      "junagadh"
+    ]
+  },
+  {
+    "name": "Gondal",
+    "city": "Gondal",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Gondal is a city in India.",
+    "keywords": [
+      "gondal"
+    ]
+  },
+  {
+    "name": "Purulia",
+    "city": "Purulia",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Purulia is a city in India.",
+    "keywords": [
+      "purulia"
+    ]
+  },
+  {
+    "name": "Bardhaman",
+    "city": "Bardhaman",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bardhaman is a city in India.",
+    "keywords": [
+      "bardhaman"
+    ]
+  },
+  {
+    "name": "Mau",
+    "city": "Mau",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Mau is a city in India.",
+    "keywords": [
+      "mau"
+    ]
+  },
+  {
+    "name": "Greater Noida",
+    "city": "Greater Noida",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Greater Noida is a city in India.",
+    "keywords": [
+      "greater",
+      "noida"
+    ]
+  },
+  {
+    "name": "Saharanpur",
+    "city": "Saharanpur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Saharanpur is a city in India.",
+    "keywords": [
+      "saharanpur"
+    ]
+  },
+  {
+    "name": "\u0932\u0932\u093f\u0924\u092a\u0941\u0930",
+    "city": "\u0932\u0932\u093f\u0924\u092a\u0941\u0930",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0932\u0932\u093f\u0924\u092a\u0941\u0930 is a city in India.",
+    "keywords": [
+      "\u0932\u0932\u093f\u0924\u092a\u0941\u0930"
+    ]
+  },
+  {
+    "name": "Haldia",
+    "city": "Haldia",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Haldia is a city in India.",
+    "keywords": [
+      "haldia"
+    ]
+  },
+  {
+    "name": "Nagda",
+    "city": "Nagda",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Nagda is a city in India.",
+    "keywords": [
+      "nagda"
+    ]
+  },
+  {
+    "name": "Darbhanga",
+    "city": "Darbhanga",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Darbhanga is a city in India.",
+    "keywords": [
+      "darbhanga"
+    ]
+  },
+  {
+    "name": "Ghazipur",
+    "city": "Ghazipur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Ghazipur is a city in India.",
+    "keywords": [
+      "ghazipur"
+    ]
+  },
+  {
+    "name": "Azamgarh",
+    "city": "Azamgarh",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Azamgarh is a city in India.",
+    "keywords": [
+      "azamgarh"
+    ]
+  },
+  {
+    "name": "Hisar",
+    "city": "Hisar",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Hisar is a city in India.",
+    "keywords": [
+      "hisar"
+    ]
+  },
+  {
+    "name": "Gandhinagar",
+    "city": "Gandhinagar",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Gandhinagar is a city in India.",
+    "keywords": [
+      "gandhinagar"
+    ]
+  },
+  {
+    "name": "Sambalpur",
+    "city": "Sambalpur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Sambalpur is a city in India.",
+    "keywords": [
+      "sambalpur"
+    ]
+  },
+  {
+    "name": "\u091c\u0928\u0915\u092a\u0941\u0930",
+    "city": "\u091c\u0928\u0915\u092a\u0941\u0930",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u091c\u0928\u0915\u092a\u0941\u0930 is a city in India.",
+    "keywords": [
+      "\u091c\u0928\u0915\u092a\u0941\u0930"
+    ]
+  },
+  {
+    "name": "Durgapur",
+    "city": "Durgapur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Durgapur is a city in India.",
+    "keywords": [
+      "durgapur"
+    ]
+  },
+  {
+    "name": "\u0927\u0930\u093e\u0928",
+    "city": "\u0927\u0930\u093e\u0928",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0927\u0930\u093e\u0928 is a city in India.",
+    "keywords": [
+      "\u0927\u0930\u093e\u0928"
+    ]
+  },
+  {
+    "name": "Danapur",
+    "city": "Danapur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Danapur is a city in India.",
+    "keywords": [
+      "danapur"
+    ]
+  },
+  {
+    "name": "Sikar",
+    "city": "Sikar",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Sikar is a city in India.",
+    "keywords": [
+      "sikar"
+    ]
+  },
+  {
+    "name": "Siwan",
+    "city": "Siwan",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Siwan is a city in India.",
+    "keywords": [
+      "siwan"
+    ]
+  },
+  {
+    "name": "Motihari",
+    "city": "Motihari",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Motihari is a city in India.",
+    "keywords": [
+      "motihari"
+    ]
+  },
+  {
+    "name": "Kendujhargarh",
+    "city": "Kendujhargarh",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Kendujhargarh is a city in India.",
+    "keywords": [
+      "kendujhargarh"
+    ]
+  },
+  {
+    "name": "\u0631\u0627\u062c\u0646 \u067e\u0648\u0631",
+    "city": "\u0631\u0627\u062c\u0646 \u067e\u0648\u0631",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0631\u0627\u062c\u0646 \u067e\u0648\u0631 is a city in India.",
+    "keywords": [
+      "\u0631\u0627\u062c\u0646",
+      "\u067e\u0648\u0631"
+    ]
+  },
+  {
+    "name": "Karnal",
+    "city": "Karnal",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Karnal is a city in India.",
+    "keywords": [
+      "karnal"
+    ]
+  },
+  {
+    "name": "Shikohabad",
+    "city": "Shikohabad",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Shikohabad is a city in India.",
+    "keywords": [
+      "shikohabad"
+    ]
+  },
+  {
+    "name": "Bhubaneswar",
+    "city": "Bhubaneswar",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bhubaneswar is a city in India.",
+    "keywords": [
+      "bhubaneswar"
+    ]
+  },
+  {
+    "name": "Jetpur",
+    "city": "Jetpur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Jetpur is a city in India.",
+    "keywords": [
+      "jetpur"
+    ]
+  },
+  {
+    "name": "Jalgaon",
+    "city": "Jalgaon",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Jalgaon is a city in India.",
+    "keywords": [
+      "jalgaon"
+    ]
+  },
+  {
+    "name": "Kaithal",
+    "city": "Kaithal",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Kaithal is a city in India.",
+    "keywords": [
+      "kaithal"
+    ]
+  },
+  {
+    "name": "Jind",
+    "city": "Jind",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Jind is a city in India.",
+    "keywords": [
+      "jind"
+    ]
+  },
+  {
+    "name": "Jhansi",
+    "city": "Jhansi",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Jhansi is a city in India.",
+    "keywords": [
+      "jhansi"
+    ]
+  },
+  {
+    "name": "Gondia",
+    "city": "Gondia",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Gondia is a city in India.",
+    "keywords": [
+      "gondia"
+    ]
+  },
+  {
+    "name": "Kanpur",
+    "city": "Kanpur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Kanpur is a city in India.",
+    "keywords": [
+      "kanpur"
+    ]
+  },
+  {
+    "name": "Unnao",
+    "city": "Unnao",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Unnao is a city in India.",
+    "keywords": [
+      "unnao"
+    ]
+  },
+  {
+    "name": "Lakhimpur",
+    "city": "Lakhimpur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Lakhimpur is a city in India.",
+    "keywords": [
+      "lakhimpur"
+    ]
+  },
+  {
+    "name": "Hardoi",
+    "city": "Hardoi",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Hardoi is a city in India.",
+    "keywords": [
+      "hardoi"
+    ]
+  },
+  {
+    "name": "Chandausi",
+    "city": "Chandausi",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Chandausi is a city in India.",
+    "keywords": [
+      "chandausi"
+    ]
+  },
+  {
+    "name": "Sambhal",
+    "city": "Sambhal",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Sambhal is a city in India.",
+    "keywords": [
+      "sambhal"
+    ]
+  },
+  {
+    "name": "Moradabad",
+    "city": "Moradabad",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Moradabad is a city in India.",
+    "keywords": [
+      "moradabad"
+    ]
+  },
+  {
+    "name": "Amroha",
+    "city": "Amroha",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Amroha is a city in India.",
+    "keywords": [
+      "amroha"
+    ]
+  },
+  {
+    "name": "Bijnor",
+    "city": "Bijnor",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bijnor is a city in India.",
+    "keywords": [
+      "bijnor"
+    ]
+  },
+  {
+    "name": "\u09b8\u09bf\u09b0\u09be\u099c\u0997\u099e\u09cd\u099c",
+    "city": "\u09b8\u09bf\u09b0\u09be\u099c\u0997\u099e\u09cd\u099c",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u09b8\u09bf\u09b0\u09be\u099c\u0997\u099e\u09cd\u099c is a city in India.",
+    "keywords": [
+      "\u09b8\u09bf\u09b0\u09be\u099c\u0997\u099e\u09cd\u099c"
+    ]
+  },
+  {
+    "name": "Haridw\u0101r",
+    "city": "Haridw\u0101r",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Haridw\u0101r is a city in India.",
+    "keywords": [
+      "haridw\u0101r"
+    ]
+  },
+  {
+    "name": "Shamli",
+    "city": "Shamli",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Shamli is a city in India.",
+    "keywords": [
+      "shamli"
+    ]
+  },
+  {
+    "name": "Baraut",
+    "city": "Baraut",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Baraut is a city in India.",
+    "keywords": [
+      "baraut"
+    ]
+  },
+  {
+    "name": "Sultanpur",
+    "city": "Sultanpur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Sultanpur is a city in India.",
+    "keywords": [
+      "sultanpur"
+    ]
+  },
+  {
+    "name": "Mainpuri",
+    "city": "Mainpuri",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Mainpuri is a city in India.",
+    "keywords": [
+      "mainpuri"
+    ]
+  },
+  {
+    "name": "Hathras",
+    "city": "Hathras",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Hathras is a city in India.",
+    "keywords": [
+      "hathras"
+    ]
+  },
+  {
+    "name": "Aurangabad",
+    "city": "Aurangabad",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Aurangabad is a city in India.",
+    "keywords": [
+      "aurangabad"
+    ]
+  },
+  {
+    "name": "Hazaribagh",
+    "city": "Hazaribagh",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Hazaribagh is a city in India.",
+    "keywords": [
+      "hazaribagh"
+    ]
+  },
+  {
+    "name": "Katihar",
+    "city": "Katihar",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Katihar is a city in India.",
+    "keywords": [
+      "katihar"
+    ]
+  },
+  {
+    "name": "Kishanganj",
+    "city": "Kishanganj",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Kishanganj is a city in India.",
+    "keywords": [
+      "kishanganj"
+    ]
+  },
+  {
+    "name": "Rourkela",
+    "city": "Rourkela",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Rourkela is a city in India.",
+    "keywords": [
+      "rourkela"
+    ]
+  },
+  {
+    "name": "Bankura",
+    "city": "Bankura",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bankura is a city in India.",
+    "keywords": [
+      "bankura"
+    ]
+  },
+  {
+    "name": "\u0f50\u0f72\u0f58\u0f0b\u0f55\u0f74\u0f42",
+    "city": "\u0f50\u0f72\u0f58\u0f0b\u0f55\u0f74\u0f42",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0f50\u0f72\u0f58\u0f0b\u0f55\u0f74\u0f42 is a city in India.",
+    "keywords": [
+      "\u0f50\u0f72\u0f58\u0f0b\u0f55\u0f74\u0f42"
+    ]
+  },
+  {
+    "name": "Rajkot",
+    "city": "Rajkot",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Rajkot is a city in India.",
+    "keywords": [
+      "rajkot"
+    ]
+  },
+  {
+    "name": "Bhiwani",
+    "city": "Bhiwani",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bhiwani is a city in India.",
+    "keywords": [
+      "bhiwani"
+    ]
+  },
+  {
+    "name": "Rohtak",
+    "city": "Rohtak",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Rohtak is a city in India.",
+    "keywords": [
+      "rohtak"
+    ]
+  },
+  {
+    "name": "Jhunjhunu",
+    "city": "Jhunjhunu",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Jhunjhunu is a city in India.",
+    "keywords": [
+      "jhunjhunu"
+    ]
+  },
+  {
+    "name": "Churu",
+    "city": "Churu",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Churu is a city in India.",
+    "keywords": [
+      "churu"
+    ]
+  },
+  {
+    "name": "Bikaner",
+    "city": "Bikaner",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bikaner is a city in India.",
+    "keywords": [
+      "bikaner"
+    ]
+  },
+  {
+    "name": "\u09aa\u099e\u09cd\u099a\u0997\u09a1\u09bc",
+    "city": "\u09aa\u099e\u09cd\u099a\u0997\u09a1\u09bc",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u09aa\u099e\u09cd\u099a\u0997\u09a1\u09bc is a city in India.",
+    "keywords": [
+      "\u09aa\u099e\u09cd\u099a\u0997\u09a1\u09bc"
+    ]
+  },
+  {
+    "name": "\u09a0\u09be\u0995\u09c1\u09b0\u0997\u09be\u0981\u0993",
+    "city": "\u09a0\u09be\u0995\u09c1\u09b0\u0997\u09be\u0981\u0993",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u09a0\u09be\u0995\u09c1\u09b0\u0997\u09be\u0981\u0993 is a city in India.",
+    "keywords": [
+      "\u09a0\u09be\u0995\u09c1\u09b0\u0997\u09be\u0981\u0993"
+    ]
+  },
+  {
+    "name": "\u09ac\u09be\u0997\u09c7\u09b0\u09b9\u09be\u099f",
+    "city": "\u09ac\u09be\u0997\u09c7\u09b0\u09b9\u09be\u099f",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u09ac\u09be\u0997\u09c7\u09b0\u09b9\u09be\u099f is a city in India.",
+    "keywords": [
+      "\u09ac\u09be\u0997\u09c7\u09b0\u09b9\u09be\u099f"
+    ]
+  },
+  {
+    "name": "\u099a\u09be\u0981\u09aa\u09be\u0987\u09a8\u09ac\u09be\u09ac\u0997\u099e\u09cd\u099c",
+    "city": "\u099a\u09be\u0981\u09aa\u09be\u0987\u09a8\u09ac\u09be\u09ac\u0997\u099e\u09cd\u099c",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u099a\u09be\u0981\u09aa\u09be\u0987\u09a8\u09ac\u09be\u09ac\u0997\u099e\u09cd\u099c is a city in India.",
+    "keywords": [
+      "\u099a\u09be\u0981\u09aa\u09be\u0987\u09a8\u09ac\u09be\u09ac\u0997\u099e\u09cd\u099c"
+    ]
+  },
+  {
+    "name": "Sawai Madhopur",
+    "city": "Sawai Madhopur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Sawai Madhopur is a city in India.",
+    "keywords": [
+      "sawai",
+      "madhopur"
+    ]
+  },
+  {
+    "name": "\u099c\u09af\u09bc\u09aa\u09c1\u09b0\u09b9\u09be\u099f",
+    "city": "\u099c\u09af\u09bc\u09aa\u09c1\u09b0\u09b9\u09be\u099f",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u099c\u09af\u09bc\u09aa\u09c1\u09b0\u09b9\u09be\u099f is a city in India.",
+    "keywords": [
+      "\u099c\u09af\u09bc\u09aa\u09c1\u09b0\u09b9\u09be\u099f"
+    ]
+  },
+  {
+    "name": "\u09ab\u09b0\u09bf\u09a6\u09aa\u09c1\u09b0",
+    "city": "\u09ab\u09b0\u09bf\u09a6\u09aa\u09c1\u09b0",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u09ab\u09b0\u09bf\u09a6\u09aa\u09c1\u09b0 is a city in India.",
+    "keywords": [
+      "\u09ab\u09b0\u09bf\u09a6\u09aa\u09c1\u09b0"
+    ]
+  },
+  {
+    "name": "\u0995\u09c1\u09b7\u09cd\u099f\u09bf\u09af\u09bc\u09be",
+    "city": "\u0995\u09c1\u09b7\u09cd\u099f\u09bf\u09af\u09bc\u09be",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0995\u09c1\u09b7\u09cd\u099f\u09bf\u09af\u09bc\u09be is a city in India.",
+    "keywords": [
+      "\u0995\u09c1\u09b7\u09cd\u099f\u09bf\u09af\u09bc\u09be"
+    ]
+  },
+  {
+    "name": "\u099c\u09be\u09ae\u09be\u09b2\u09aa\u09c1\u09b0",
+    "city": "\u099c\u09be\u09ae\u09be\u09b2\u09aa\u09c1\u09b0",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u099c\u09be\u09ae\u09be\u09b2\u09aa\u09c1\u09b0 is a city in India.",
+    "keywords": [
+      "\u099c\u09be\u09ae\u09be\u09b2\u09aa\u09c1\u09b0"
+    ]
+  },
+  {
+    "name": "\u09a8\u09c0\u09b2\u09ab\u09be\u09ae\u09be\u09b0\u09c0",
+    "city": "\u09a8\u09c0\u09b2\u09ab\u09be\u09ae\u09be\u09b0\u09c0",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u09a8\u09c0\u09b2\u09ab\u09be\u09ae\u09be\u09b0\u09c0 is a city in India.",
+    "keywords": [
+      "\u09a8\u09c0\u09b2\u09ab\u09be\u09ae\u09be\u09b0\u09c0"
+    ]
+  },
+  {
+    "name": "\u0927\u0928\u0917\u0922\u0940",
+    "city": "\u0927\u0928\u0917\u0922\u0940",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0927\u0928\u0917\u0922\u0940 is a city in India.",
+    "keywords": [
+      "\u0927\u0928\u0917\u0922\u0940"
+    ]
+  },
+  {
+    "name": "Alwar",
+    "city": "Alwar",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Alwar is a city in India.",
+    "keywords": [
+      "alwar"
+    ]
+  },
+  {
+    "name": "Shivpuri",
+    "city": "Shivpuri",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Shivpuri is a city in India.",
+    "keywords": [
+      "shivpuri"
+    ]
+  },
+  {
+    "name": "\u0a97\u0abe\u0a82\u0aa7\u0ac0\u0aa7\u0abe\u0aae",
+    "city": "\u0a97\u0abe\u0a82\u0aa7\u0ac0\u0aa7\u0abe\u0aae",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0a97\u0abe\u0a82\u0aa7\u0ac0\u0aa7\u0abe\u0aae is a city in India.",
+    "keywords": [
+      "\u0a97\u0abe\u0a82\u0aa7\u0ac0\u0aa7\u0abe\u0aae"
+    ]
+  },
+  {
+    "name": "Anand",
+    "city": "Anand",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Anand is a city in India.",
+    "keywords": [
+      "anand"
+    ]
+  },
+  {
+    "name": "Durg",
+    "city": "Durg",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Durg is a city in India.",
+    "keywords": [
+      "durg"
+    ]
+  },
+  {
+    "name": "Kalyani",
+    "city": "Kalyani",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Kalyani is a city in India.",
+    "keywords": [
+      "kalyani"
+    ]
+  },
+  {
+    "name": "\u09ae\u09be\u09a8\u09bf\u0995\u0997\u099e\u09cd\u099c",
+    "city": "\u09ae\u09be\u09a8\u09bf\u0995\u0997\u099e\u09cd\u099c",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u09ae\u09be\u09a8\u09bf\u0995\u0997\u099e\u09cd\u099c is a city in India.",
+    "keywords": [
+      "\u09ae\u09be\u09a8\u09bf\u0995\u0997\u099e\u09cd\u099c"
+    ]
+  },
+  {
+    "name": "\u09aa\u09bf\u09b0\u09cb\u099c\u09aa\u09c1\u09b0",
+    "city": "\u09aa\u09bf\u09b0\u09cb\u099c\u09aa\u09c1\u09b0",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u09aa\u09bf\u09b0\u09cb\u099c\u09aa\u09c1\u09b0 is a city in India.",
+    "keywords": [
+      "\u09aa\u09bf\u09b0\u09cb\u099c\u09aa\u09c1\u09b0"
+    ]
+  },
+  {
+    "name": "\u09b0\u09be\u099c\u09ac\u09be\u09dc\u09c0",
+    "city": "\u09b0\u09be\u099c\u09ac\u09be\u09dc\u09c0",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u09b0\u09be\u099c\u09ac\u09be\u09dc\u09c0 is a city in India.",
+    "keywords": [
+      "\u09b0\u09be\u099c\u09ac\u09be\u09dc\u09c0"
+    ]
+  },
+  {
+    "name": "\u099d\u09bf\u09a8\u09be\u0987\u09a6\u09b9",
+    "city": "\u099d\u09bf\u09a8\u09be\u0987\u09a6\u09b9",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u099d\u09bf\u09a8\u09be\u0987\u09a6\u09b9 is a city in India.",
+    "keywords": [
+      "\u099d\u09bf\u09a8\u09be\u0987\u09a6\u09b9"
+    ]
+  },
+  {
+    "name": "\u09ae\u09be\u0997\u09c1\u09b0\u09be",
+    "city": "\u09ae\u09be\u0997\u09c1\u09b0\u09be",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u09ae\u09be\u0997\u09c1\u09b0\u09be is a city in India.",
+    "keywords": [
+      "\u09ae\u09be\u0997\u09c1\u09b0\u09be"
+    ]
+  },
+  {
+    "name": "\u09a8\u09dc\u09be\u0987\u09b2",
+    "city": "\u09a8\u09dc\u09be\u0987\u09b2",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u09a8\u09dc\u09be\u0987\u09b2 is a city in India.",
+    "keywords": [
+      "\u09a8\u09dc\u09be\u0987\u09b2"
+    ]
+  },
+  {
+    "name": "\u09a8\u09be\u099f\u09cb\u09b0",
+    "city": "\u09a8\u09be\u099f\u09cb\u09b0",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u09a8\u09be\u099f\u09cb\u09b0 is a city in India.",
+    "keywords": [
+      "\u09a8\u09be\u099f\u09cb\u09b0"
+    ]
+  },
+  {
+    "name": "\u09aa\u09be\u09ac\u09a8\u09be",
+    "city": "\u09aa\u09be\u09ac\u09a8\u09be",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u09aa\u09be\u09ac\u09a8\u09be is a city in India.",
+    "keywords": [
+      "\u09aa\u09be\u09ac\u09a8\u09be"
+    ]
+  },
+  {
+    "name": "\u09b8\u09be\u09a4\u0995\u09cd\u09b7\u09c0\u09b0\u09be",
+    "city": "\u09b8\u09be\u09a4\u0995\u09cd\u09b7\u09c0\u09b0\u09be",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u09b8\u09be\u09a4\u0995\u09cd\u09b7\u09c0\u09b0\u09be is a city in India.",
+    "keywords": [
+      "\u09b8\u09be\u09a4\u0995\u09cd\u09b7\u09c0\u09b0\u09be"
+    ]
+  },
+  {
+    "name": "Chandannagar",
+    "city": "Chandannagar",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Chandannagar is a city in India.",
+    "keywords": [
+      "chandannagar"
+    ]
+  },
+  {
+    "name": "Singrauli",
+    "city": "Singrauli",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Singrauli is a city in India.",
+    "keywords": [
+      "singrauli"
+    ]
+  },
+  {
+    "name": "Munger",
+    "city": "Munger",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Munger is a city in India.",
+    "keywords": [
+      "munger"
+    ]
+  },
+  {
+    "name": "Sri Ganganagar",
+    "city": "Sri Ganganagar",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Sri Ganganagar is a city in India.",
+    "keywords": [
+      "sri",
+      "ganganagar"
+    ]
+  },
+  {
+    "name": "Mughalsarai",
+    "city": "Mughalsarai",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Mughalsarai is a city in India.",
+    "keywords": [
+      "mughalsarai"
+    ]
+  },
+  {
+    "name": "Bangaon",
+    "city": "Bangaon",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bangaon is a city in India.",
+    "keywords": [
+      "bangaon"
+    ]
+  },
+  {
+    "name": "Narnaul",
+    "city": "Narnaul",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Narnaul is a city in India.",
+    "keywords": [
+      "narnaul"
+    ]
+  },
+  {
+    "name": "\u09b8\u09c8\u09af\u09bc\u09a6\u09aa\u09c1\u09b0",
+    "city": "\u09b8\u09c8\u09af\u09bc\u09a6\u09aa\u09c1\u09b0",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u09b8\u09c8\u09af\u09bc\u09a6\u09aa\u09c1\u09b0 is a city in India.",
+    "keywords": [
+      "\u09b8\u09c8\u09af\u09bc\u09a6\u09aa\u09c1\u09b0"
+    ]
+  },
+  {
+    "name": "Hindaun",
+    "city": "Hindaun",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Hindaun is a city in India.",
+    "keywords": [
+      "hindaun"
+    ]
+  },
+  {
+    "name": "Gangapur City",
+    "city": "Gangapur City",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Gangapur City is a city in India.",
+    "keywords": [
+      "city",
+      "gangapur"
+    ]
+  },
+  {
+    "name": "Bhind",
+    "city": "Bhind",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bhind is a city in India.",
+    "keywords": [
+      "bhind"
+    ]
+  },
+  {
+    "name": "Achalpur",
+    "city": "Achalpur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Achalpur is a city in India.",
+    "keywords": [
+      "achalpur"
+    ]
+  },
+  {
+    "name": "Palwal",
+    "city": "Palwal",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Palwal is a city in India.",
+    "keywords": [
+      "palwal"
+    ]
+  },
+  {
+    "name": "\u0927\u0941\u0932\u093f\u0916\u0947\u0932",
+    "city": "\u0927\u0941\u0932\u093f\u0916\u0947\u0932",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0927\u0941\u0932\u093f\u0916\u0947\u0932 is a city in India.",
+    "keywords": [
+      "\u0927\u0941\u0932\u093f\u0916\u0947\u0932"
+    ]
+  },
+  {
+    "name": "Banswara",
+    "city": "Banswara",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Banswara is a city in India.",
+    "keywords": [
+      "banswara"
+    ]
+  },
+  {
+    "name": "Valsad",
+    "city": "Valsad",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Valsad is a city in India.",
+    "keywords": [
+      "valsad"
+    ]
+  },
+  {
+    "name": "Manesar",
+    "city": "Manesar",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Manesar is a city in India.",
+    "keywords": [
+      "manesar"
+    ]
+  },
+  {
+    "name": "Vadodara",
+    "city": "Vadodara",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Vadodara is a city in India.",
+    "keywords": [
+      "vadodara"
+    ]
+  },
+  {
+    "name": "\u092d\u0915\u094d\u0924\u092a\u0941\u0930",
+    "city": "\u092d\u0915\u094d\u0924\u092a\u0941\u0930",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u092d\u0915\u094d\u0924\u092a\u0941\u0930 is a city in India.",
+    "keywords": [
+      "\u092d\u0915\u094d\u0924\u092a\u0941\u0930"
+    ]
+  },
+  {
+    "name": "Guna",
+    "city": "Guna",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Guna is a city in India.",
+    "keywords": [
+      "guna"
+    ]
+  },
+  {
+    "name": "Narmadapuram",
+    "city": "Narmadapuram",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Narmadapuram is a city in India.",
+    "keywords": [
+      "narmadapuram"
+    ]
+  },
+  {
+    "name": "Jaitsar",
+    "city": "Jaitsar",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Jaitsar is a city in India.",
+    "keywords": [
+      "jaitsar"
+    ]
+  },
+  {
+    "name": "Damoh",
+    "city": "Damoh",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Damoh is a city in India.",
+    "keywords": [
+      "damoh"
+    ]
+  },
+  {
+    "name": "Sagar",
+    "city": "Sagar",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Sagar is a city in India.",
+    "keywords": [
+      "sagar"
+    ]
+  },
+  {
+    "name": "Bulandshahr",
+    "city": "Bulandshahr",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bulandshahr is a city in India.",
+    "keywords": [
+      "bulandshahr"
+    ]
+  },
+  {
+    "name": "Lalitpur",
+    "city": "Lalitpur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Lalitpur is a city in India.",
+    "keywords": [
+      "lalitpur"
+    ]
+  },
+  {
+    "name": "Khargone",
+    "city": "Khargone",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Khargone is a city in India.",
+    "keywords": [
+      "khargone"
+    ]
+  },
+  {
+    "name": "\u091c\u0940\u0924\u092a\u0941\u0930\u0938\u093f\u092e\u0930\u093e",
+    "city": "\u091c\u0940\u0924\u092a\u0941\u0930\u0938\u093f\u092e\u0930\u093e",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u091c\u0940\u0924\u092a\u0941\u0930\u0938\u093f\u092e\u0930\u093e is a city in India.",
+    "keywords": [
+      "\u091c\u0940\u0924\u092a\u0941\u0930\u0938\u093f\u092e\u0930\u093e"
+    ]
+  },
+  {
+    "name": "Khurja",
+    "city": "Khurja",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Khurja is a city in India.",
+    "keywords": [
+      "khurja"
+    ]
+  },
+  {
+    "name": "Godhra",
+    "city": "Godhra",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Godhra is a city in India.",
+    "keywords": [
+      "godhra"
+    ]
+  },
+  {
+    "name": "Jamnagar",
+    "city": "Jamnagar",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Jamnagar is a city in India.",
+    "keywords": [
+      "jamnagar"
+    ]
+  },
+  {
+    "name": "Surendranagar",
+    "city": "Surendranagar",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Surendranagar is a city in India.",
+    "keywords": [
+      "surendranagar"
+    ]
+  },
+  {
+    "name": "Patan",
+    "city": "Patan",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Patan is a city in India.",
+    "keywords": [
+      "patan"
+    ]
+  },
+  {
+    "name": "Beawar",
+    "city": "Beawar",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Beawar is a city in India.",
+    "keywords": [
+      "beawar"
+    ]
+  },
+  {
+    "name": "Baran",
+    "city": "Baran",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Baran is a city in India.",
+    "keywords": [
+      "baran"
+    ]
+  },
+  {
+    "name": "Bolpur",
+    "city": "Bolpur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bolpur is a city in India.",
+    "keywords": [
+      "bolpur"
+    ]
+  },
+  {
+    "name": "Udaipur",
+    "city": "Udaipur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Udaipur is a city in India.",
+    "keywords": [
+      "udaipur"
+    ]
+  },
+  {
+    "name": "Bhiwadi",
+    "city": "Bhiwadi",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bhiwadi is a city in India.",
+    "keywords": [
+      "bhiwadi"
+    ]
+  },
+  {
+    "name": "\u09b2\u09be\u09b2\u09ae\u09a8\u09bf\u09b0\u09b9\u09be\u099f",
+    "city": "\u09b2\u09be\u09b2\u09ae\u09a8\u09bf\u09b0\u09b9\u09be\u099f",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u09b2\u09be\u09b2\u09ae\u09a8\u09bf\u09b0\u09b9\u09be\u099f is a city in India.",
+    "keywords": [
+      "\u09b2\u09be\u09b2\u09ae\u09a8\u09bf\u09b0\u09b9\u09be\u099f"
+    ]
+  },
+  {
+    "name": "Bhadrak",
+    "city": "Bhadrak",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bhadrak is a city in India.",
+    "keywords": [
+      "bhadrak"
+    ]
+  },
+  {
+    "name": "\u09a6\u09bf\u09a8\u09be\u099c\u09aa\u09c1\u09b0",
+    "city": "\u09a6\u09bf\u09a8\u09be\u099c\u09aa\u09c1\u09b0",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u09a6\u09bf\u09a8\u09be\u099c\u09aa\u09c1\u09b0 is a city in India.",
+    "keywords": [
+      "\u09a6\u09bf\u09a8\u09be\u099c\u09aa\u09c1\u09b0"
+    ]
+  },
+  {
+    "name": "Bokaro",
+    "city": "Bokaro",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bokaro is a city in India.",
+    "keywords": [
+      "bokaro"
+    ]
+  },
+  {
+    "name": "Kakdwip",
+    "city": "Kakdwip",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Kakdwip is a city in India.",
+    "keywords": [
+      "kakdwip"
+    ]
+  },
+  {
+    "name": "\u09ac\u09cb\u09a6\u09be",
+    "city": "\u09ac\u09cb\u09a6\u09be",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u09ac\u09cb\u09a6\u09be is a city in India.",
+    "keywords": [
+      "\u09ac\u09cb\u09a6\u09be"
+    ]
+  },
+  {
+    "name": "\u0997\u09be\u0987\u09ac\u09be\u09a8\u09cd\u09a7\u09be",
+    "city": "\u0997\u09be\u0987\u09ac\u09be\u09a8\u09cd\u09a7\u09be",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0997\u09be\u0987\u09ac\u09be\u09a8\u09cd\u09a7\u09be is a city in India.",
+    "keywords": [
+      "\u0997\u09be\u0987\u09ac\u09be\u09a8\u09cd\u09a7\u09be"
+    ]
+  },
+  {
+    "name": "Rajnandgaon",
+    "city": "Rajnandgaon",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Rajnandgaon is a city in India.",
+    "keywords": [
+      "rajnandgaon"
+    ]
+  },
+  {
+    "name": "Ranchi",
+    "city": "Ranchi",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Ranchi is a city in India.",
+    "keywords": [
+      "ranchi"
+    ]
+  },
+  {
+    "name": "Dhanbad",
+    "city": "Dhanbad",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Dhanbad is a city in India.",
+    "keywords": [
+      "dhanbad"
+    ]
+  },
+  {
+    "name": "Ghaziabad",
+    "city": "Ghaziabad",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Ghaziabad is a city in India.",
+    "keywords": [
+      "ghaziabad"
+    ]
+  },
+  {
+    "name": "Mansa",
+    "city": "Mansa",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Mansa is a city in India.",
+    "keywords": [
+      "mansa"
+    ]
+  },
+  {
+    "name": "Bhusawal",
+    "city": "Bhusawal",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bhusawal is a city in India.",
+    "keywords": [
+      "bhusawal"
+    ]
+  },
+  {
+    "name": "Gurgaon",
+    "city": "Gurgaon",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Gurgaon is a city in India.",
+    "keywords": [
+      "gurgaon"
+    ]
+  },
+  {
+    "name": "\u092a\u0925\u0930\u0940 \u0936\u0928\u093f\u0936\u094d\u091a\u0930\u0947",
+    "city": "\u092a\u0925\u0930\u0940 \u0936\u0928\u093f\u0936\u094d\u091a\u0930\u0947",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u092a\u0925\u0930\u0940 \u0936\u0928\u093f\u0936\u094d\u091a\u0930\u0947 is a city in India.",
+    "keywords": [
+      "\u0936\u0928\u093f\u0936\u094d\u091a\u0930\u0947",
+      "\u092a\u0925\u0930\u0940"
+    ]
+  },
+  {
+    "name": "Gayespur",
+    "city": "Gayespur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Gayespur is a city in India.",
+    "keywords": [
+      "gayespur"
+    ]
+  },
+  {
+    "name": "Budge Budge",
+    "city": "Budge Budge",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Budge Budge is a city in India.",
+    "keywords": [
+      "budge"
+    ]
+  },
+  {
+    "name": "Barrackpore",
+    "city": "Barrackpore",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Barrackpore is a city in India.",
+    "keywords": [
+      "barrackpore"
+    ]
+  },
+  {
+    "name": "Bally",
+    "city": "Bally",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bally is a city in India.",
+    "keywords": [
+      "bally"
+    ]
+  },
+  {
+    "name": "\u092d\u093f\u092e\u0926\u0924\u094d\u0924",
+    "city": "\u092d\u093f\u092e\u0926\u0924\u094d\u0924",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u092d\u093f\u092e\u0926\u0924\u094d\u0924 is a city in India.",
+    "keywords": [
+      "\u092d\u093f\u092e\u0926\u0924\u094d\u0924"
+    ]
+  },
+  {
+    "name": "\u65e5\u5580\u5219\u5e02 \u0f42\u0f5e\u0f72\u0f66\u0f0b\u0f40\u0f0b\u0f62\u0fa9\u0f7a\u0f0d",
+    "city": "\u65e5\u5580\u5219\u5e02 \u0f42\u0f5e\u0f72\u0f66\u0f0b\u0f40\u0f0b\u0f62\u0fa9\u0f7a\u0f0d",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u65e5\u5580\u5219\u5e02 \u0f42\u0f5e\u0f72\u0f66\u0f0b\u0f40\u0f0b\u0f62\u0fa9\u0f7a\u0f0d is a city in India.",
+    "keywords": [
+      "\u0f42\u0f5e\u0f72\u0f66\u0f0b\u0f40\u0f0b\u0f62\u0fa9\u0f7a\u0f0d",
+      "\u65e5\u5580\u5219\u5e02"
+    ]
+  },
+  {
+    "name": "Bhilai",
+    "city": "Bhilai",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bhilai is a city in India.",
+    "keywords": [
+      "bhilai"
+    ]
+  },
+  {
+    "name": "Amravati",
+    "city": "Amravati",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Amravati is a city in India.",
+    "keywords": [
+      "amravati"
+    ]
+  },
+  {
+    "name": "Daman",
+    "city": "Daman",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Daman is a city in India.",
+    "keywords": [
+      "daman"
+    ]
+  },
+  {
+    "name": "Ambikapur",
+    "city": "Ambikapur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Ambikapur is a city in India.",
+    "keywords": [
+      "ambikapur"
+    ]
+  },
+  {
+    "name": "\u092c\u0941\u091f\u0935\u0932",
+    "city": "\u092c\u0941\u091f\u0935\u0932",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u092c\u0941\u091f\u0935\u0932 is a city in India.",
+    "keywords": [
+      "\u092c\u0941\u091f\u0935\u0932"
+    ]
+  },
+  {
+    "name": "New Town",
+    "city": "New Town",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "New Town is a city in India.",
+    "keywords": [
+      "new",
+      "town"
+    ]
+  },
+  {
+    "name": "\u0935\u0940\u0930\u0947\u0928\u094d\u0926\u094d\u0930\u0928\u0917\u0930",
+    "city": "\u0935\u0940\u0930\u0947\u0928\u094d\u0926\u094d\u0930\u0928\u0917\u0930",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0935\u0940\u0930\u0947\u0928\u094d\u0926\u094d\u0930\u0928\u0917\u0930 is a city in India.",
+    "keywords": [
+      "\u0935\u0940\u0930\u0947\u0928\u094d\u0926\u094d\u0930\u0928\u0917\u0930"
+    ]
+  },
+  {
+    "name": "Darjeeling",
+    "city": "Darjeeling",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Darjeeling is a city in India.",
+    "keywords": [
+      "darjeeling"
+    ]
+  },
+  {
+    "name": "\u0909\u0930\u094d\u0932\u093e\u092c\u093e\u0930\u0940",
+    "city": "\u0909\u0930\u094d\u0932\u093e\u092c\u093e\u0930\u0940",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0909\u0930\u094d\u0932\u093e\u092c\u093e\u0930\u0940 is a city in India.",
+    "keywords": [
+      "\u0909\u0930\u094d\u0932\u093e\u092c\u093e\u0930\u0940"
+    ]
+  },
+  {
+    "name": "\u099a\u09c1\u09df\u09be\u09a1\u09be\u0999\u09cd\u0997\u09be",
+    "city": "\u099a\u09c1\u09df\u09be\u09a1\u09be\u0999\u09cd\u0997\u09be",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u099a\u09c1\u09df\u09be\u09a1\u09be\u0999\u09cd\u0997\u09be is a city in India.",
+    "keywords": [
+      "\u099a\u09c1\u09df\u09be\u09a1\u09be\u0999\u09cd\u0997\u09be"
+    ]
+  },
+  {
+    "name": "Faridabad",
+    "city": "Faridabad",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Faridabad is a city in India.",
+    "keywords": [
+      "faridabad"
+    ]
+  },
+  {
+    "name": "Serampore",
+    "city": "Serampore",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Serampore is a city in India.",
+    "keywords": [
+      "serampore"
+    ]
+  },
+  {
+    "name": "\u09a8\u0993\u0997\u09be\u0981",
+    "city": "\u09a8\u0993\u0997\u09be\u0981",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u09a8\u0993\u0997\u09be\u0981 is a city in India.",
+    "keywords": [
+      "\u09a8\u0993\u0997\u09be\u0981"
+    ]
+  },
+  {
+    "name": "Jaynagar Majilpur",
+    "city": "Jaynagar Majilpur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Jaynagar Majilpur is a city in India.",
+    "keywords": [
+      "majilpur",
+      "jaynagar"
+    ]
+  },
+  {
+    "name": "Tonk",
+    "city": "Tonk",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Tonk is a city in India.",
+    "keywords": [
+      "tonk"
+    ]
+  },
+  {
+    "name": "\u0686\u0634\u062a\u06cc\u0627\u06ba \u0634\u0631\u06cc\u0641",
+    "city": "\u0686\u0634\u062a\u06cc\u0627\u06ba \u0634\u0631\u06cc\u0641",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0686\u0634\u062a\u06cc\u0627\u06ba \u0634\u0631\u06cc\u0641 is a city in India.",
+    "keywords": [
+      "\u0686\u0634\u062a\u06cc\u0627\u06ba",
+      "\u0634\u0631\u06cc\u0641"
+    ]
+  },
+  {
+    "name": "Roorkee",
+    "city": "Roorkee",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Roorkee is a city in India.",
+    "keywords": [
+      "roorkee"
+    ]
+  },
+  {
+    "name": "New Barrackpore",
+    "city": "New Barrackpore",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "New Barrackpore is a city in India.",
+    "keywords": [
+      "new",
+      "barrackpore"
+    ]
+  },
+  {
+    "name": "Raigarh",
+    "city": "Raigarh",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Raigarh is a city in India.",
+    "keywords": [
+      "raigarh"
+    ]
+  },
+  {
+    "name": "Asansol",
+    "city": "Asansol",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Asansol is a city in India.",
+    "keywords": [
+      "asansol"
+    ]
+  },
+  {
+    "name": "Pithampur",
+    "city": "Pithampur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Pithampur is a city in India.",
+    "keywords": [
+      "pithampur"
+    ]
+  },
+  {
+    "name": "\u0917\u094b\u0930\u0916\u093e",
+    "city": "\u0917\u094b\u0930\u0916\u093e",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0917\u094b\u0930\u0916\u093e is a city in India.",
+    "keywords": [
+      "\u0917\u094b\u0930\u0916\u093e"
+    ]
+  },
+  {
+    "name": "\u4e9a\u4e1c\u53bf \u0f42\u0fb2\u0f7c\u0f0b\u0f58\u0f7c\u0f0d",
+    "city": "\u4e9a\u4e1c\u53bf \u0f42\u0fb2\u0f7c\u0f0b\u0f58\u0f7c\u0f0d",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u4e9a\u4e1c\u53bf \u0f42\u0fb2\u0f7c\u0f0b\u0f58\u0f7c\u0f0d is a city in India.",
+    "keywords": [
+      "\u4e9a\u4e1c\u53bf",
+      "\u0f42\u0fb2\u0f7c\u0f0b\u0f58\u0f7c\u0f0d"
+    ]
+  },
+  {
+    "name": "\u8042\u62c9\u6728\u53bf \u0f42\u0f49\u0f60\u0f0b\u0f63\u0f58\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0d",
+    "city": "\u8042\u62c9\u6728\u53bf \u0f42\u0f49\u0f60\u0f0b\u0f63\u0f58\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0d",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u8042\u62c9\u6728\u53bf \u0f42\u0f49\u0f60\u0f0b\u0f63\u0f58\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0d is a city in India.",
+    "keywords": [
+      "\u8042\u62c9\u6728\u53bf",
+      "\u0f42\u0f49\u0f60\u0f0b\u0f63\u0f58\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0d"
+    ]
+  },
+  {
+    "name": "\u6851\u73e0\u5b5c\u533a \u0f56\u0f66\u0f58\u0f0b\u0f60\u0f42\u0fb2\u0f74\u0f56\u0f0b\u0f62\u0fa9\u0f7a\u0f0d",
+    "city": "\u6851\u73e0\u5b5c\u533a \u0f56\u0f66\u0f58\u0f0b\u0f60\u0f42\u0fb2\u0f74\u0f56\u0f0b\u0f62\u0fa9\u0f7a\u0f0d",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u6851\u73e0\u5b5c\u533a \u0f56\u0f66\u0f58\u0f0b\u0f60\u0f42\u0fb2\u0f74\u0f56\u0f0b\u0f62\u0fa9\u0f7a\u0f0d is a city in India.",
+    "keywords": [
+      "\u0f56\u0f66\u0f58\u0f0b\u0f60\u0f42\u0fb2\u0f74\u0f56\u0f0b\u0f62\u0fa9\u0f7a\u0f0d",
+      "\u6851\u73e0\u5b5c\u533a"
+    ]
+  },
+  {
+    "name": "\u099f\u09be\u0999\u09cd\u0997\u09be\u0987\u09b2",
+    "city": "\u099f\u09be\u0999\u09cd\u0997\u09be\u0987\u09b2",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u099f\u09be\u0999\u09cd\u0997\u09be\u0987\u09b2 is a city in India.",
+    "keywords": [
+      "\u099f\u09be\u0999\u09cd\u0997\u09be\u0987\u09b2"
+    ]
+  },
+  {
+    "name": "Betul",
+    "city": "Betul",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Betul is a city in India.",
+    "keywords": [
+      "betul"
+    ]
+  },
+  {
+    "name": "Raipur",
+    "city": "Raipur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Raipur is a city in India.",
+    "keywords": [
+      "raipur"
+    ]
+  },
+  {
+    "name": "\u0907\u091f\u0939\u0930\u0940",
+    "city": "\u0907\u091f\u0939\u0930\u0940",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0907\u091f\u0939\u0930\u0940 is a city in India.",
+    "keywords": [
+      "\u0907\u091f\u0939\u0930\u0940"
+    ]
+  },
+  {
+    "name": "Neemuch",
+    "city": "Neemuch",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Neemuch is a city in India.",
+    "keywords": [
+      "neemuch"
+    ]
+  },
+  {
+    "name": "Katni",
+    "city": "Katni",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Katni is a city in India.",
+    "keywords": [
+      "katni"
+    ]
+  },
+  {
+    "name": "Ratlam",
+    "city": "Ratlam",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Ratlam is a city in India.",
+    "keywords": [
+      "ratlam"
+    ]
+  },
+  {
+    "name": "Sachin",
+    "city": "Sachin",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Sachin is a city in India.",
+    "keywords": [
+      "sachin"
+    ]
+  },
+  {
+    "name": "Habra",
+    "city": "Habra",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Habra is a city in India.",
+    "keywords": [
+      "habra"
+    ]
+  },
+  {
+    "name": "Ashoknagar Kalyangarh",
+    "city": "Ashoknagar Kalyangarh",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Ashoknagar Kalyangarh is a city in India.",
+    "keywords": [
+      "kalyangarh",
+      "ashoknagar"
+    ]
+  },
+  {
+    "name": "\u0918\u094b\u0930\u093e\u0939\u0940",
+    "city": "\u0918\u094b\u0930\u093e\u0939\u0940",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0918\u094b\u0930\u093e\u0939\u0940 is a city in India.",
+    "keywords": [
+      "\u0918\u094b\u0930\u093e\u0939\u0940"
+    ]
+  },
+  {
+    "name": "Nagaur",
+    "city": "Nagaur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Nagaur is a city in India.",
+    "keywords": [
+      "nagaur"
+    ]
+  },
+  {
+    "name": "\u0924\u0941\u0932\u0938\u0940\u092a\u0941\u0930",
+    "city": "\u0924\u0941\u0932\u0938\u0940\u092a\u0941\u0930",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0924\u0941\u0932\u0938\u0940\u092a\u0941\u0930 is a city in India.",
+    "keywords": [
+      "\u0924\u0941\u0932\u0938\u0940\u092a\u0941\u0930"
+    ]
+  },
+  {
+    "name": "Jalpaiguri",
+    "city": "Jalpaiguri",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Jalpaiguri is a city in India.",
+    "keywords": [
+      "jalpaiguri"
+    ]
+  },
+  {
+    "name": "\u0924\u093f\u0932\u094b\u0924\u094d\u0924\u092e\u093e",
+    "city": "\u0924\u093f\u0932\u094b\u0924\u094d\u0924\u092e\u093e",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0924\u093f\u0932\u094b\u0924\u094d\u0924\u092e\u093e is a city in India.",
+    "keywords": [
+      "\u0924\u093f\u0932\u094b\u0924\u094d\u0924\u092e\u093e"
+    ]
+  },
+  {
+    "name": "Amreli",
+    "city": "Amreli",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Amreli is a city in India.",
+    "keywords": [
+      "amreli"
+    ]
+  },
+  {
+    "name": "Paliganj",
+    "city": "Paliganj",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Paliganj is a city in India.",
+    "keywords": [
+      "paliganj"
+    ]
+  },
+  {
+    "name": "Vidisha",
+    "city": "Vidisha",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Vidisha is a city in India.",
+    "keywords": [
+      "vidisha"
+    ]
+  },
+  {
+    "name": "Canning",
+    "city": "Canning",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Canning is a city in India.",
+    "keywords": [
+      "canning"
+    ]
+  },
+  {
+    "name": "Hugli-Chuchura",
+    "city": "Hugli-Chuchura",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Hugli-Chuchura is a city in India.",
+    "keywords": [
+      "hugli-chuchura"
+    ]
+  },
+  {
+    "name": "Bhandara",
+    "city": "Bhandara",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bhandara is a city in India.",
+    "keywords": [
+      "bhandara"
+    ]
+  },
+  {
+    "name": "\u0995\u09c1\u09a1\u09bc\u09bf\u0997\u09cd\u09b0\u09be\u09ae",
+    "city": "\u0995\u09c1\u09a1\u09bc\u09bf\u0997\u09cd\u09b0\u09be\u09ae",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0995\u09c1\u09a1\u09bc\u09bf\u0997\u09cd\u09b0\u09be\u09ae is a city in India.",
+    "keywords": [
+      "\u0995\u09c1\u09a1\u09bc\u09bf\u0997\u09cd\u09b0\u09be\u09ae"
+    ]
+  },
+  {
+    "name": "Sonma",
+    "city": "Sonma",
+    "state": "Bihar",
+    "country": "India",
+    "type": "city",
+    "description": "Sonma is a city in India.",
+    "keywords": [
+      "sonma"
+    ]
+  },
+  {
+    "name": "Pujali",
+    "city": "Pujali",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Pujali is a city in India.",
+    "keywords": [
+      "pujali"
+    ]
+  },
+  {
+    "name": "Gobardanga",
+    "city": "Gobardanga",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Gobardanga is a city in India.",
+    "keywords": [
+      "gobardanga"
+    ]
+  },
+  {
+    "name": "Taherpur",
+    "city": "Taherpur",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Taherpur is a city in India.",
+    "keywords": [
+      "taherpur"
+    ]
+  },
+  {
+    "name": "Baranagar",
+    "city": "Baranagar",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Baranagar is a city in India.",
+    "keywords": [
+      "baranagar"
+    ]
+  },
+  {
+    "name": "Bhatpara",
+    "city": "Bhatpara",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bhatpara is a city in India.",
+    "keywords": [
+      "bhatpara"
+    ]
+  },
+  {
+    "name": "Mandla",
+    "city": "Mandla",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Mandla is a city in India.",
+    "keywords": [
+      "mandla"
+    ]
+  },
+  {
+    "name": "Surat",
+    "city": "Surat",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Surat is a city in India.",
+    "keywords": [
+      "surat"
+    ]
+  },
+  {
+    "name": "Maheshtala",
+    "city": "Maheshtala",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Maheshtala is a city in India.",
+    "keywords": [
+      "maheshtala"
+    ]
+  },
+  {
+    "name": "\u0916\u0948\u0930\u0947\u0928\u0940\u091f\u093e\u0930",
+    "city": "\u0916\u0948\u0930\u0947\u0928\u0940\u091f\u093e\u0930",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "\u0916\u0948\u0930\u0947\u0928\u0940\u091f\u093e\u0930 is a city in India.",
+    "keywords": [
+      "\u0916\u0948\u0930\u0947\u0928\u0940\u091f\u093e\u0930"
+    ]
+  },
+  {
+    "name": "Bidhannagar",
+    "city": "Bidhannagar",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Bidhannagar is a city in India.",
+    "keywords": [
+      "bidhannagar"
+    ]
+  },
+  {
+    "name": "Jat Colony",
+    "city": "Jat Colony",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Jat Colony is a city in India.",
+    "keywords": [
+      "jat",
+      "colony"
+    ]
+  },
+  {
+    "name": "Jat Colony",
+    "city": "Jat Colony",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Jat Colony is a city in India.",
+    "keywords": [
+      "jat",
+      "colony"
+    ]
+  },
+  {
+    "name": "Teja Colony",
+    "city": "Teja Colony",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Teja Colony is a city in India.",
+    "keywords": [
+      "teja",
+      "colony"
+    ]
+  },
+  {
+    "name": "Shaktigarh",
+    "city": "Shaktigarh",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Shaktigarh is a city in India.",
+    "keywords": [
+      "shaktigarh"
+    ]
+  },
+  {
+    "name": "Shaktigarh",
+    "city": "Shaktigarh",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Shaktigarh is a city in India.",
+    "keywords": [
+      "shaktigarh"
+    ]
+  },
+  {
+    "name": "Shaktigarh",
+    "city": "Shaktigarh",
+    "state": "Uttarakhand",
+    "country": "India",
+    "type": "city",
+    "description": "Shaktigarh is a city in India.",
+    "keywords": [
+      "shaktigarh"
+    ]
+  },
+  {
+    "name": "Shaktigarh",
+    "city": "Shaktigarh",
+    "state": "",
+    "country": "India",
+    "type": "city",
+    "description": "Shaktigarh is a city in India.",
+    "keywords": [
+      "shaktigarh"
+    ]
+  }
+]
