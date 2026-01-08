@@ -1,8 +1,8 @@
-// 🔗 Live backend URL (DO NOT use localhost in production)
+// Live backend URL (production)
 const BASE_URL = "https://travel-search-project-3.onrender.com";
 
 /**
- * Helper: fetch with retry (for Render cold starts)
+ * Fetch with retry (handles Render cold start)
  */
 async function fetchWithRetry(url, options = {}, retries = 2, delay = 2000) {
   try {
@@ -38,7 +38,7 @@ async function searchAPI(query, searchType, limit, offset) {
 }
 
 /**
- * Admin: manual sync (if you are using it)
+ * Admin: manual sync
  */
 async function manualSync() {
   const url = `${BASE_URL}/api/admin/sync`;
