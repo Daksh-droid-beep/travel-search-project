@@ -4,14 +4,18 @@ from app.routers.search import router as search_router
 
 app = FastAPI(title="Travel Search API")
 
+# ✅ Proper CORS configuration (IMPORTANT)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],   # IMPORTANT
-    allow_credentials=True,
+    allow_origins=[
+        "https://travel-search-project-5.onrender.com"
+    ],  # frontend URL ONLY
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
+# Routes
 app.include_router(search_router, prefix="/api")
 
 @app.get("/")
@@ -30,5 +34,4 @@ if __name__ == "__main__":
         "main:app",
         host="0.0.0.0",
         port=int(os.environ.get("PORT", 8000)),
-        reload=True
     )
