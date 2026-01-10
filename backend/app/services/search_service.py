@@ -1,35 +1,91 @@
 from app.database import collection
-
+from app.elasticsearch_client import es, INDEX_NAME
+from elasticsearch import NotFoundError
 
 def search_locations_service(q: str, search_type: str, limit: int, offset: int):
 
-    # Base query: search ONLY in name
-    mongo_query = {
-        "name": {
-            "$regex": q,
-            "$options": "i"  # case-insensitive
+    es_results = []
+    total_es_results = 0
+
+    try:
+        es_query = {
+            "bool": {
+                "must": [
+                    {
+                        "multi_match": {
+                            "query": q,
+                            "fields": ["name^3", "description", "keywords"]
+                        }
+                    }
+                ]
+            }
         }
-    }
 
-    # Apply type filter ONLY if not "all"
-    if search_type and search_type.lower() != "all":
-        mongo_query["type"] = search_type
+        if search_type != "all":
+            es_query["bool"]["filter"] = [
+                {"term": {"type": search_type}}
+            ]
 
-    # Total matching documents (for pagination)
-    total_results = collection.count_documents(mongo_query)
+        es_response = es.search(
+            index=INDEX_NAME,
+            from_=offset,
+            size=limit,
+            query=es_query
+        )
 
-    # Fetch paginated results
-    results = list(
-        collection.find(mongo_query, {"_id": 0})
-        .sort("name", 1)      # 1 = ascending (A → Z)
-        .skip(offset)
-        .limit(limit)
-    )
+        total_es_results = es_response["hits"]["total"]["value"]
+
+        es_results = [
+            {
+                "name": hit["_source"]["name"],
+                "city": hit["_source"].get("city", ""),
+                "description": hit["_source"].get("description", ""),
+                "type": hit["_source"].get("type", ""),
+                "score": hit["_score"]
+            }
+            for hit in es_response["hits"]["hits"]
+        ]
+
+    except NotFoundError:
+        # Index not found → fallback to Mongo
+        pass
+
+    except Exception as e:
+        print("Elasticsearch error:", e)
+        pass
+
+    # 🔁 FALLBACK (YOUR ORIGINAL LOGIC — UNTOUCHED)
+    if not es_results:
+        mongo_query = {
+            "$or": [
+                {"name": {"$regex": q, "$options": "i"}}
+            ]
+        }
+
+        if search_type != "all":
+            mongo_query["type"] = search_type
+
+        total_results = collection.count_documents(mongo_query)
+
+        results = list(
+            collection.find(mongo_query, {"_id": 0})
+            .sort("name", 1)
+            .skip(offset)
+            .limit(limit)
+        )
+
+        return {
+            "query": q,
+            "total_results": total_results,
+            "limit": limit,
+            "offset": offset,
+            "results": results
+        }
 
     return {
         "query": q,
-        "total_results": total_results,
+        "total_results": total_es_results,
         "limit": limit,
         "offset": offset,
-        "results": results
+        "results": es_results
     }

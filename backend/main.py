@@ -1,21 +1,22 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.routers.search import router as search_router
+from app.services.es_index_service import create_index
 
 app = FastAPI(title="Travel Search API")
 
-# ✅ Proper CORS configuration (IMPORTANT)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "https://travel-search-project-5.onrender.com"
-    ],  # frontend URL ONLY
-    allow_credentials=False,
+    allow_origins=["*"],
+    allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-# Routes
+@app.on_event("startup")
+def startup_event():
+    create_index()
+
 app.include_router(search_router, prefix="/api")
 
 @app.get("/")
@@ -25,13 +26,3 @@ def root():
 @app.get("/health")
 def health():
     return {"status": "ok"}
-
-if __name__ == "__main__":
-    import uvicorn
-    import os
-
-    uvicorn.run(
-        "main:app",
-        host="0.0.0.0",
-        port=int(os.environ.get("PORT", 8000)),
-    )

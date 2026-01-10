@@ -1,30 +1,21 @@
-from app.elasticsearch_client import es
-from app.database import collection
-
-INDEX_NAME = "locations"
-
+from app.elasticsearch_client import es, INDEX_NAME
 
 def create_index():
-    if not es.indices.exists(index=INDEX_NAME):
-        es.indices.create(
-            index=INDEX_NAME,
-            mappings={
-                "properties": {
-                    "city": {"type": "text"},
-                    "state": {"type": "text"},
-                    "country": {"type": "text"},
-                    "type": {"type": "keyword"},
-                    "keywords": {"type": "text"}
-                }
+    if es.indices.exists(index=INDEX_NAME):
+        return
+
+    mapping = {
+        "mappings": {
+            "properties": {
+                "name": {"type": "text"},
+                "city": {"type": "keyword"},
+                "state": {"type": "keyword"},
+                "country": {"type": "keyword"},
+                "type": {"type": "keyword"},
+                "description": {"type": "text"},
+                "keywords": {"type": "text"}
             }
-        )
+        }
+    }
 
-
-def index_data():
-    try:
-        create_index()
-        for doc in collection.find({}, {"_id": 0}):
-            es.index(index=INDEX_NAME, document=doc)
-        print("✅ Elasticsearch indexing done")
-    except Exception as e:
-        print("❌ Elasticsearch indexing failed:", e)
+    es.indices.create(index=INDEX_NAME, body=mapping)
